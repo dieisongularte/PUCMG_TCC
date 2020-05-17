@@ -1,0 +1,1998 @@
+uf_ibge;sigla_estado;nome_estado;nome_regiao;Periodo;Quantidade_de_novas_concessoes
+11;RO;RONDONIA           ;NORTE       ;01/2014;622
+11;RO;RONDONIA           ;NORTE       ;01/2015;8
+11;RO;RONDONIA           ;NORTE       ;01/2016;2.990
+11;RO;RONDONIA           ;NORTE       ;01/2017;1.621
+11;RO;RONDONIA           ;NORTE       ;01/2018;1.432
+11;RO;RONDONIA           ;NORTE       ;01/2019;1.258
+11;RO;RONDONIA           ;NORTE       ;01/2020;4.785
+11;RO;RONDONIA           ;NORTE       ;02/2014;950
+11;RO;RONDONIA           ;NORTE       ;02/2015;49
+11;RO;RONDONIA           ;NORTE       ;02/2016;204
+11;RO;RONDONIA           ;NORTE       ;02/2017;725
+11;RO;RONDONIA           ;NORTE       ;02/2018;1.240
+11;RO;RONDONIA           ;NORTE       ;02/2019;1.128
+11;RO;RONDONIA           ;NORTE       ;02/2020;21
+11;RO;RONDONIA           ;NORTE       ;03/2014;2.404
+11;RO;RONDONIA           ;NORTE       ;03/2015;24
+11;RO;RONDONIA           ;NORTE       ;03/2016;1.184
+11;RO;RONDONIA           ;NORTE       ;03/2017;5
+11;RO;RONDONIA           ;NORTE       ;03/2018;1.206
+11;RO;RONDONIA           ;NORTE       ;03/2019;1.373
+11;RO;RONDONIA           ;NORTE       ;04/2014;1.800
+11;RO;RONDONIA           ;NORTE       ;04/2015;4.067
+11;RO;RONDONIA           ;NORTE       ;04/2016;1.651
+11;RO;RONDONIA           ;NORTE       ;04/2017;964
+11;RO;RONDONIA           ;NORTE       ;04/2018;1.685
+11;RO;RONDONIA           ;NORTE       ;04/2019;1.452
+11;RO;RONDONIA           ;NORTE       ;05/2014;1.330
+11;RO;RONDONIA           ;NORTE       ;05/2015;6
+11;RO;RONDONIA           ;NORTE       ;05/2016;26
+11;RO;RONDONIA           ;NORTE       ;05/2017;414
+11;RO;RONDONIA           ;NORTE       ;05/2018;1.697
+11;RO;RONDONIA           ;NORTE       ;05/2019;1.647
+11;RO;RONDONIA           ;NORTE       ;06/2014;1.092
+11;RO;RONDONIA           ;NORTE       ;06/2015;929
+11;RO;RONDONIA           ;NORTE       ;06/2016;808
+11;RO;RONDONIA           ;NORTE       ;06/2017;745
+11;RO;RONDONIA           ;NORTE       ;06/2018;2.570
+11;RO;RONDONIA           ;NORTE       ;06/2019;17
+11;RO;RONDONIA           ;NORTE       ;07/2014;4.790
+11;RO;RONDONIA           ;NORTE       ;07/2015;408
+11;RO;RONDONIA           ;NORTE       ;07/2016;1.494
+11;RO;RONDONIA           ;NORTE       ;07/2017;911
+11;RO;RONDONIA           ;NORTE       ;07/2018;2.095
+11;RO;RONDONIA           ;NORTE       ;07/2019;25
+11;RO;RONDONIA           ;NORTE       ;08/2014;59
+11;RO;RONDONIA           ;NORTE       ;08/2015;252
+11;RO;RONDONIA           ;NORTE       ;08/2016;542
+11;RO;RONDONIA           ;NORTE       ;08/2017;5.102
+11;RO;RONDONIA           ;NORTE       ;08/2018;1.581
+11;RO;RONDONIA           ;NORTE       ;08/2019;59
+11;RO;RONDONIA           ;NORTE       ;09/2014;35
+11;RO;RONDONIA           ;NORTE       ;09/2015;2.112
+11;RO;RONDONIA           ;NORTE       ;09/2016;4.965
+11;RO;RONDONIA           ;NORTE       ;09/2017;1.454
+11;RO;RONDONIA           ;NORTE       ;09/2018;2.011
+11;RO;RONDONIA           ;NORTE       ;09/2019;35
+11;RO;RONDONIA           ;NORTE       ;10/2014;1
+11;RO;RONDONIA           ;NORTE       ;10/2015;4.074
+11;RO;RONDONIA           ;NORTE       ;10/2016;956
+11;RO;RONDONIA           ;NORTE       ;10/2017;1.596
+11;RO;RONDONIA           ;NORTE       ;10/2018;1.533
+11;RO;RONDONIA           ;NORTE       ;10/2019;57
+11;RO;RONDONIA           ;NORTE       ;11/2014;344
+11;RO;RONDONIA           ;NORTE       ;11/2015;2.768
+11;RO;RONDONIA           ;NORTE       ;11/2016;725
+11;RO;RONDONIA           ;NORTE       ;11/2017;2.300
+11;RO;RONDONIA           ;NORTE       ;11/2018;2.004
+11;RO;RONDONIA           ;NORTE       ;11/2019;42
+11;RO;RONDONIA           ;NORTE       ;12/2014;147
+11;RO;RONDONIA           ;NORTE       ;12/2015;687
+11;RO;RONDONIA           ;NORTE       ;12/2016;2.468
+11;RO;RONDONIA           ;NORTE       ;12/2017;1.260
+11;RO;RONDONIA           ;NORTE       ;12/2018;3.492
+11;RO;RONDONIA           ;NORTE       ;12/2019;53
+12;AC;ACRE               ;NORTE       ;01/2014;861
+12;AC;ACRE               ;NORTE       ;01/2015;8
+12;AC;ACRE               ;NORTE       ;01/2016;4.037
+12;AC;ACRE               ;NORTE       ;01/2017;4.205
+12;AC;ACRE               ;NORTE       ;01/2018;1.263
+12;AC;ACRE               ;NORTE       ;01/2019;1.109
+12;AC;ACRE               ;NORTE       ;01/2020;45
+12;AC;ACRE               ;NORTE       ;02/2014;909
+12;AC;ACRE               ;NORTE       ;02/2015;107
+12;AC;ACRE               ;NORTE       ;02/2016;23
+12;AC;ACRE               ;NORTE       ;02/2017;702
+12;AC;ACRE               ;NORTE       ;02/2018;1.349
+12;AC;ACRE               ;NORTE       ;02/2019;1.039
+12;AC;ACRE               ;NORTE       ;02/2020;24
+12;AC;ACRE               ;NORTE       ;03/2014;1.305
+12;AC;ACRE               ;NORTE       ;03/2015;9
+12;AC;ACRE               ;NORTE       ;03/2016;1.680
+12;AC;ACRE               ;NORTE       ;03/2017;5
+12;AC;ACRE               ;NORTE       ;03/2018;1.071
+12;AC;ACRE               ;NORTE       ;03/2019;1.302
+12;AC;ACRE               ;NORTE       ;04/2014;1.189
+12;AC;ACRE               ;NORTE       ;04/2015;358
+12;AC;ACRE               ;NORTE       ;04/2016;862
+12;AC;ACRE               ;NORTE       ;04/2017;77
+12;AC;ACRE               ;NORTE       ;04/2018;1.302
+12;AC;ACRE               ;NORTE       ;04/2019;1.141
+12;AC;ACRE               ;NORTE       ;05/2014;704
+12;AC;ACRE               ;NORTE       ;05/2015;12
+12;AC;ACRE               ;NORTE       ;05/2016;65
+12;AC;ACRE               ;NORTE       ;05/2017;10
+12;AC;ACRE               ;NORTE       ;05/2018;1.387
+12;AC;ACRE               ;NORTE       ;05/2019;1.405
+12;AC;ACRE               ;NORTE       ;06/2014;961
+12;AC;ACRE               ;NORTE       ;06/2015;150
+12;AC;ACRE               ;NORTE       ;06/2016;76
+12;AC;ACRE               ;NORTE       ;06/2017;137
+12;AC;ACRE               ;NORTE       ;06/2018;1.545
+12;AC;ACRE               ;NORTE       ;06/2019;30
+12;AC;ACRE               ;NORTE       ;07/2014;2.306
+12;AC;ACRE               ;NORTE       ;07/2015;94
+12;AC;ACRE               ;NORTE       ;07/2016;1.363
+12;AC;ACRE               ;NORTE       ;07/2017;1.137
+12;AC;ACRE               ;NORTE       ;07/2018;1.247
+12;AC;ACRE               ;NORTE       ;07/2019;22
+12;AC;ACRE               ;NORTE       ;08/2014;84
+12;AC;ACRE               ;NORTE       ;08/2015;106
+12;AC;ACRE               ;NORTE       ;08/2016;28
+12;AC;ACRE               ;NORTE       ;08/2017;4.109
+12;AC;ACRE               ;NORTE       ;08/2018;993
+12;AC;ACRE               ;NORTE       ;08/2019;89
+12;AC;ACRE               ;NORTE       ;09/2014;42
+12;AC;ACRE               ;NORTE       ;09/2015;4.887
+12;AC;ACRE               ;NORTE       ;09/2016;2.060
+12;AC;ACRE               ;NORTE       ;09/2017;973
+12;AC;ACRE               ;NORTE       ;09/2018;1.436
+12;AC;ACRE               ;NORTE       ;09/2019;39
+12;AC;ACRE               ;NORTE       ;10/2014;7
+12;AC;ACRE               ;NORTE       ;10/2015;3.203
+12;AC;ACRE               ;NORTE       ;10/2016;475
+12;AC;ACRE               ;NORTE       ;10/2017;1.168
+12;AC;ACRE               ;NORTE       ;10/2018;1.513
+12;AC;ACRE               ;NORTE       ;10/2019;32
+12;AC;ACRE               ;NORTE       ;11/2014;125
+12;AC;ACRE               ;NORTE       ;11/2015;988
+12;AC;ACRE               ;NORTE       ;11/2016;618
+12;AC;ACRE               ;NORTE       ;11/2017;1.968
+12;AC;ACRE               ;NORTE       ;11/2018;2.073
+12;AC;ACRE               ;NORTE       ;11/2019;38
+12;AC;ACRE               ;NORTE       ;12/2014;20
+12;AC;ACRE               ;NORTE       ;12/2015;364
+12;AC;ACRE               ;NORTE       ;12/2016;705
+12;AC;ACRE               ;NORTE       ;12/2017;975
+12;AC;ACRE               ;NORTE       ;12/2018;2.772
+12;AC;ACRE               ;NORTE       ;12/2019;50
+13;AM;AMAZONAS           ;NORTE       ;01/2014;2.392
+13;AM;AMAZONAS           ;NORTE       ;01/2015;6
+13;AM;AMAZONAS           ;NORTE       ;01/2016;13.189
+13;AM;AMAZONAS           ;NORTE       ;01/2017;18.410
+13;AM;AMAZONAS           ;NORTE       ;01/2018;5.367
+13;AM;AMAZONAS           ;NORTE       ;01/2019;5.484
+13;AM;AMAZONAS           ;NORTE       ;01/2020;469
+13;AM;AMAZONAS           ;NORTE       ;02/2014;3.250
+13;AM;AMAZONAS           ;NORTE       ;02/2015;1.209
+13;AM;AMAZONAS           ;NORTE       ;02/2016;66
+13;AM;AMAZONAS           ;NORTE       ;02/2017;3.144
+13;AM;AMAZONAS           ;NORTE       ;02/2018;6.183
+13;AM;AMAZONAS           ;NORTE       ;02/2019;4.687
+13;AM;AMAZONAS           ;NORTE       ;02/2020;359
+13;AM;AMAZONAS           ;NORTE       ;03/2014;6.007
+13;AM;AMAZONAS           ;NORTE       ;03/2015;76
+13;AM;AMAZONAS           ;NORTE       ;03/2016;10.147
+13;AM;AMAZONAS           ;NORTE       ;03/2017;46
+13;AM;AMAZONAS           ;NORTE       ;03/2018;5.408
+13;AM;AMAZONAS           ;NORTE       ;03/2019;4.966
+13;AM;AMAZONAS           ;NORTE       ;04/2014;3.834
+13;AM;AMAZONAS           ;NORTE       ;04/2015;399
+13;AM;AMAZONAS           ;NORTE       ;04/2016;4.703
+13;AM;AMAZONAS           ;NORTE       ;04/2017;618
+13;AM;AMAZONAS           ;NORTE       ;04/2018;6.991
+13;AM;AMAZONAS           ;NORTE       ;04/2019;5.322
+13;AM;AMAZONAS           ;NORTE       ;05/2014;3.709
+13;AM;AMAZONAS           ;NORTE       ;05/2015;15
+13;AM;AMAZONAS           ;NORTE       ;05/2016;501
+13;AM;AMAZONAS           ;NORTE       ;05/2017;107
+13;AM;AMAZONAS           ;NORTE       ;05/2018;8.149
+13;AM;AMAZONAS           ;NORTE       ;05/2019;6.900
+13;AM;AMAZONAS           ;NORTE       ;06/2014;3.839
+13;AM;AMAZONAS           ;NORTE       ;06/2015;1.092
+13;AM;AMAZONAS           ;NORTE       ;06/2016;155
+13;AM;AMAZONAS           ;NORTE       ;06/2017;628
+13;AM;AMAZONAS           ;NORTE       ;06/2018;9.508
+13;AM;AMAZONAS           ;NORTE       ;06/2019;94
+13;AM;AMAZONAS           ;NORTE       ;07/2014;9.976
+13;AM;AMAZONAS           ;NORTE       ;07/2015;226
+13;AM;AMAZONAS           ;NORTE       ;07/2016;10.163
+13;AM;AMAZONAS           ;NORTE       ;07/2017;533
+13;AM;AMAZONAS           ;NORTE       ;07/2018;7.154
+13;AM;AMAZONAS           ;NORTE       ;07/2019;180
+13;AM;AMAZONAS           ;NORTE       ;08/2014;74
+13;AM;AMAZONAS           ;NORTE       ;08/2015;769
+13;AM;AMAZONAS           ;NORTE       ;08/2016;175
+13;AM;AMAZONAS           ;NORTE       ;08/2017;24.377
+13;AM;AMAZONAS           ;NORTE       ;08/2018;4.497
+13;AM;AMAZONAS           ;NORTE       ;08/2019;894
+13;AM;AMAZONAS           ;NORTE       ;09/2014;325
+13;AM;AMAZONAS           ;NORTE       ;09/2015;13.498
+13;AM;AMAZONAS           ;NORTE       ;09/2016;11.441
+13;AM;AMAZONAS           ;NORTE       ;09/2017;4.764
+13;AM;AMAZONAS           ;NORTE       ;09/2018;5.696
+13;AM;AMAZONAS           ;NORTE       ;09/2019;479
+13;AM;AMAZONAS           ;NORTE       ;10/2014;17
+13;AM;AMAZONAS           ;NORTE       ;10/2015;18.593
+13;AM;AMAZONAS           ;NORTE       ;10/2016;1.192
+13;AM;AMAZONAS           ;NORTE       ;10/2017;5.221
+13;AM;AMAZONAS           ;NORTE       ;10/2018;4.697
+13;AM;AMAZONAS           ;NORTE       ;10/2019;525
+13;AM;AMAZONAS           ;NORTE       ;11/2014;342
+13;AM;AMAZONAS           ;NORTE       ;11/2015;3.765
+13;AM;AMAZONAS           ;NORTE       ;11/2016;4.783
+13;AM;AMAZONAS           ;NORTE       ;11/2017;9.226
+13;AM;AMAZONAS           ;NORTE       ;11/2018;8.249
+13;AM;AMAZONAS           ;NORTE       ;11/2019;346
+13;AM;AMAZONAS           ;NORTE       ;12/2014;31
+13;AM;AMAZONAS           ;NORTE       ;12/2015;2.360
+13;AM;AMAZONAS           ;NORTE       ;12/2016;5.227
+13;AM;AMAZONAS           ;NORTE       ;12/2017;4.959
+13;AM;AMAZONAS           ;NORTE       ;12/2018;12.829
+13;AM;AMAZONAS           ;NORTE       ;12/2019;440
+14;RR;RORAIMA            ;NORTE       ;01/2014;376
+14;RR;RORAIMA            ;NORTE       ;01/2015;4
+14;RR;RORAIMA            ;NORTE       ;01/2016;4.029
+14;RR;RORAIMA            ;NORTE       ;01/2017;2.308
+14;RR;RORAIMA            ;NORTE       ;01/2018;831
+14;RR;RORAIMA            ;NORTE       ;01/2019;1.225
+14;RR;RORAIMA            ;NORTE       ;01/2020;237
+14;RR;RORAIMA            ;NORTE       ;02/2014;199
+14;RR;RORAIMA            ;NORTE       ;02/2015;621
+14;RR;RORAIMA            ;NORTE       ;02/2016;15
+14;RR;RORAIMA            ;NORTE       ;02/2017;565
+14;RR;RORAIMA            ;NORTE       ;02/2018;1.097
+14;RR;RORAIMA            ;NORTE       ;02/2019;962
+14;RR;RORAIMA            ;NORTE       ;02/2020;117
+14;RR;RORAIMA            ;NORTE       ;03/2014;315
+14;RR;RORAIMA            ;NORTE       ;03/2015;39
+14;RR;RORAIMA            ;NORTE       ;03/2016;2.549
+14;RR;RORAIMA            ;NORTE       ;03/2017;13
+14;RR;RORAIMA            ;NORTE       ;03/2018;974
+14;RR;RORAIMA            ;NORTE       ;03/2019;1.475
+14;RR;RORAIMA            ;NORTE       ;04/2014;296
+14;RR;RORAIMA            ;NORTE       ;04/2015;291
+14;RR;RORAIMA            ;NORTE       ;04/2016;389
+14;RR;RORAIMA            ;NORTE       ;04/2017;127
+14;RR;RORAIMA            ;NORTE       ;04/2018;1.219
+14;RR;RORAIMA            ;NORTE       ;04/2019;1.303
+14;RR;RORAIMA            ;NORTE       ;05/2014;577
+14;RR;RORAIMA            ;NORTE       ;05/2015;12
+14;RR;RORAIMA            ;NORTE       ;05/2016;117
+14;RR;RORAIMA            ;NORTE       ;05/2017;30
+14;RR;RORAIMA            ;NORTE       ;05/2018;1.378
+14;RR;RORAIMA            ;NORTE       ;05/2019;1.344
+14;RR;RORAIMA            ;NORTE       ;06/2014;745
+14;RR;RORAIMA            ;NORTE       ;06/2015;357
+14;RR;RORAIMA            ;NORTE       ;06/2016;77
+14;RR;RORAIMA            ;NORTE       ;06/2017;147
+14;RR;RORAIMA            ;NORTE       ;06/2018;1.715
+14;RR;RORAIMA            ;NORTE       ;06/2019;54
+14;RR;RORAIMA            ;NORTE       ;07/2014;2.970
+14;RR;RORAIMA            ;NORTE       ;07/2015;33
+14;RR;RORAIMA            ;NORTE       ;07/2016;513
+14;RR;RORAIMA            ;NORTE       ;07/2017;111
+14;RR;RORAIMA            ;NORTE       ;07/2018;1.477
+14;RR;RORAIMA            ;NORTE       ;07/2019;94
+14;RR;RORAIMA            ;NORTE       ;08/2014;59
+14;RR;RORAIMA            ;NORTE       ;08/2015;361
+14;RR;RORAIMA            ;NORTE       ;08/2016;142
+14;RR;RORAIMA            ;NORTE       ;08/2017;2.708
+14;RR;RORAIMA            ;NORTE       ;08/2018;1.035
+14;RR;RORAIMA            ;NORTE       ;08/2019;335
+14;RR;RORAIMA            ;NORTE       ;09/2014;157
+14;RR;RORAIMA            ;NORTE       ;09/2015;444
+14;RR;RORAIMA            ;NORTE       ;09/2016;970
+14;RR;RORAIMA            ;NORTE       ;09/2017;398
+14;RR;RORAIMA            ;NORTE       ;09/2018;1.554
+14;RR;RORAIMA            ;NORTE       ;09/2019;135
+14;RR;RORAIMA            ;NORTE       ;10/2014;6
+14;RR;RORAIMA            ;NORTE       ;10/2015;1.415
+14;RR;RORAIMA            ;NORTE       ;10/2016;98
+14;RR;RORAIMA            ;NORTE       ;10/2017;699
+14;RR;RORAIMA            ;NORTE       ;10/2018;868
+14;RR;RORAIMA            ;NORTE       ;10/2019;177
+14;RR;RORAIMA            ;NORTE       ;11/2014;96
+14;RR;RORAIMA            ;NORTE       ;11/2015;1.617
+14;RR;RORAIMA            ;NORTE       ;11/2016;349
+14;RR;RORAIMA            ;NORTE       ;11/2017;940
+14;RR;RORAIMA            ;NORTE       ;11/2018;1.574
+14;RR;RORAIMA            ;NORTE       ;11/2019;162
+14;RR;RORAIMA            ;NORTE       ;12/2014;16
+14;RR;RORAIMA            ;NORTE       ;12/2015;513
+14;RR;RORAIMA            ;NORTE       ;12/2016;2.073
+14;RR;RORAIMA            ;NORTE       ;12/2017;537
+14;RR;RORAIMA            ;NORTE       ;12/2018;2.910
+14;RR;RORAIMA            ;NORTE       ;12/2019;165
+15;PA;PARA               ;NORTE       ;01/2014;6.309
+15;PA;PARA               ;NORTE       ;01/2015;26
+15;PA;PARA               ;NORTE       ;01/2016;43.814
+15;PA;PARA               ;NORTE       ;01/2017;39.471
+15;PA;PARA               ;NORTE       ;01/2018;12.370
+15;PA;PARA               ;NORTE       ;01/2019;13.767
+15;PA;PARA               ;NORTE       ;01/2020;488
+15;PA;PARA               ;NORTE       ;02/2014;12.262
+15;PA;PARA               ;NORTE       ;02/2015;616
+15;PA;PARA               ;NORTE       ;02/2016;337
+15;PA;PARA               ;NORTE       ;02/2017;6.787
+15;PA;PARA               ;NORTE       ;02/2018;12.152
+15;PA;PARA               ;NORTE       ;02/2019;12.856
+15;PA;PARA               ;NORTE       ;02/2020;234
+15;PA;PARA               ;NORTE       ;03/2014;21.305
+15;PA;PARA               ;NORTE       ;03/2015;109
+15;PA;PARA               ;NORTE       ;03/2016;17.060
+15;PA;PARA               ;NORTE       ;03/2017;50
+15;PA;PARA               ;NORTE       ;03/2018;9.369
+15;PA;PARA               ;NORTE       ;03/2019;13.320
+15;PA;PARA               ;NORTE       ;04/2014;11.080
+15;PA;PARA               ;NORTE       ;04/2015;3.146
+15;PA;PARA               ;NORTE       ;04/2016;5.839
+15;PA;PARA               ;NORTE       ;04/2017;2.009
+15;PA;PARA               ;NORTE       ;04/2018;13.354
+15;PA;PARA               ;NORTE       ;04/2019;11.685
+15;PA;PARA               ;NORTE       ;05/2014;9.190
+15;PA;PARA               ;NORTE       ;05/2015;37
+15;PA;PARA               ;NORTE       ;05/2016;281
+15;PA;PARA               ;NORTE       ;05/2017;783
+15;PA;PARA               ;NORTE       ;05/2018;13.911
+15;PA;PARA               ;NORTE       ;05/2019;16.801
+15;PA;PARA               ;NORTE       ;06/2014;10.211
+15;PA;PARA               ;NORTE       ;06/2015;2.346
+15;PA;PARA               ;NORTE       ;06/2016;1.309
+15;PA;PARA               ;NORTE       ;06/2017;2.022
+15;PA;PARA               ;NORTE       ;06/2018;18.808
+15;PA;PARA               ;NORTE       ;06/2019;110
+15;PA;PARA               ;NORTE       ;07/2014;24.245
+15;PA;PARA               ;NORTE       ;07/2015;3.064
+15;PA;PARA               ;NORTE       ;07/2016;6.771
+15;PA;PARA               ;NORTE       ;07/2017;4.374
+15;PA;PARA               ;NORTE       ;07/2018;13.908
+15;PA;PARA               ;NORTE       ;07/2019;170
+15;PA;PARA               ;NORTE       ;08/2014;258
+15;PA;PARA               ;NORTE       ;08/2015;936
+15;PA;PARA               ;NORTE       ;08/2016;339
+15;PA;PARA               ;NORTE       ;08/2017;51.723
+15;PA;PARA               ;NORTE       ;08/2018;10.625
+15;PA;PARA               ;NORTE       ;08/2019;387
+15;PA;PARA               ;NORTE       ;09/2014;230
+15;PA;PARA               ;NORTE       ;09/2015;13.193
+15;PA;PARA               ;NORTE       ;09/2016;33.921
+15;PA;PARA               ;NORTE       ;09/2017;9.478
+15;PA;PARA               ;NORTE       ;09/2018;11.579
+15;PA;PARA               ;NORTE       ;09/2019;242
+15;PA;PARA               ;NORTE       ;10/2014;15
+15;PA;PARA               ;NORTE       ;10/2015;47.031
+15;PA;PARA               ;NORTE       ;10/2016;3.316
+15;PA;PARA               ;NORTE       ;10/2017;13.851
+15;PA;PARA               ;NORTE       ;10/2018;11.528
+15;PA;PARA               ;NORTE       ;10/2019;225
+15;PA;PARA               ;NORTE       ;11/2014;1.783
+15;PA;PARA               ;NORTE       ;11/2015;13.399
+15;PA;PARA               ;NORTE       ;11/2016;3.150
+15;PA;PARA               ;NORTE       ;11/2017;19.741
+15;PA;PARA               ;NORTE       ;11/2018;18.080
+15;PA;PARA               ;NORTE       ;11/2019;264
+15;PA;PARA               ;NORTE       ;12/2014;481
+15;PA;PARA               ;NORTE       ;12/2015;3.625
+15;PA;PARA               ;NORTE       ;12/2016;12.113
+15;PA;PARA               ;NORTE       ;12/2017;10.789
+15;PA;PARA               ;NORTE       ;12/2018;28.229
+15;PA;PARA               ;NORTE       ;12/2019;274
+16;AP;AMAPA              ;NORTE       ;01/2014;291
+16;AP;AMAPA              ;NORTE       ;01/2015;2
+16;AP;AMAPA              ;NORTE       ;01/2016;3.480
+16;AP;AMAPA              ;NORTE       ;01/2017;4.327
+16;AP;AMAPA              ;NORTE       ;01/2018;1.416
+16;AP;AMAPA              ;NORTE       ;01/2019;1.380
+16;AP;AMAPA              ;NORTE       ;01/2020;26
+16;AP;AMAPA              ;NORTE       ;02/2014;358
+16;AP;AMAPA              ;NORTE       ;02/2015;72
+16;AP;AMAPA              ;NORTE       ;02/2016;8
+16;AP;AMAPA              ;NORTE       ;02/2017;633
+16;AP;AMAPA              ;NORTE       ;02/2018;2.049
+16;AP;AMAPA              ;NORTE       ;02/2019;1.383
+16;AP;AMAPA              ;NORTE       ;02/2020;23
+16;AP;AMAPA              ;NORTE       ;03/2014;901
+16;AP;AMAPA              ;NORTE       ;03/2015;13
+16;AP;AMAPA              ;NORTE       ;03/2016;1.059
+16;AP;AMAPA              ;NORTE       ;03/2017;5
+16;AP;AMAPA              ;NORTE       ;03/2018;1.075
+16;AP;AMAPA              ;NORTE       ;03/2019;1.424
+16;AP;AMAPA              ;NORTE       ;04/2014;361
+16;AP;AMAPA              ;NORTE       ;04/2015;64
+16;AP;AMAPA              ;NORTE       ;04/2016;435
+16;AP;AMAPA              ;NORTE       ;04/2017;13
+16;AP;AMAPA              ;NORTE       ;04/2018;1.125
+16;AP;AMAPA              ;NORTE       ;04/2019;1.330
+16;AP;AMAPA              ;NORTE       ;05/2014;588
+16;AP;AMAPA              ;NORTE       ;05/2015;2
+16;AP;AMAPA              ;NORTE       ;05/2016;17
+16;AP;AMAPA              ;NORTE       ;05/2017;8
+16;AP;AMAPA              ;NORTE       ;05/2018;1.306
+16;AP;AMAPA              ;NORTE       ;05/2019;1.582
+16;AP;AMAPA              ;NORTE       ;06/2014;958
+16;AP;AMAPA              ;NORTE       ;06/2015;48
+16;AP;AMAPA              ;NORTE       ;06/2016;22
+16;AP;AMAPA              ;NORTE       ;06/2017;19
+16;AP;AMAPA              ;NORTE       ;06/2018;1.609
+16;AP;AMAPA              ;NORTE       ;06/2019;15
+16;AP;AMAPA              ;NORTE       ;07/2014;2.368
+16;AP;AMAPA              ;NORTE       ;07/2015;1.141
+16;AP;AMAPA              ;NORTE       ;07/2016;1.194
+16;AP;AMAPA              ;NORTE       ;07/2017;16
+16;AP;AMAPA              ;NORTE       ;07/2018;1.451
+16;AP;AMAPA              ;NORTE       ;07/2019;24
+16;AP;AMAPA              ;NORTE       ;08/2014;10
+16;AP;AMAPA              ;NORTE       ;08/2015;17
+16;AP;AMAPA              ;NORTE       ;08/2016;15
+16;AP;AMAPA              ;NORTE       ;08/2017;4.515
+16;AP;AMAPA              ;NORTE       ;08/2018;970
+16;AP;AMAPA              ;NORTE       ;08/2019;63
+16;AP;AMAPA              ;NORTE       ;09/2014;38
+16;AP;AMAPA              ;NORTE       ;09/2015;4.475
+16;AP;AMAPA              ;NORTE       ;09/2016;2.260
+16;AP;AMAPA              ;NORTE       ;09/2017;1.112
+16;AP;AMAPA              ;NORTE       ;09/2018;1.256
+16;AP;AMAPA              ;NORTE       ;09/2019;39
+16;AP;AMAPA              ;NORTE       ;10/2014;5
+16;AP;AMAPA              ;NORTE       ;10/2015;2.590
+16;AP;AMAPA              ;NORTE       ;10/2016;22
+16;AP;AMAPA              ;NORTE       ;10/2017;1.279
+16;AP;AMAPA              ;NORTE       ;10/2018;1.106
+16;AP;AMAPA              ;NORTE       ;10/2019;33
+16;AP;AMAPA              ;NORTE       ;11/2014;205
+16;AP;AMAPA              ;NORTE       ;11/2015;1.184
+16;AP;AMAPA              ;NORTE       ;11/2016;100
+16;AP;AMAPA              ;NORTE       ;11/2017;2.397
+16;AP;AMAPA              ;NORTE       ;11/2018;1.131
+16;AP;AMAPA              ;NORTE       ;11/2019;30
+16;AP;AMAPA              ;NORTE       ;12/2014;16
+16;AP;AMAPA              ;NORTE       ;12/2015;613
+16;AP;AMAPA              ;NORTE       ;12/2016;1.332
+16;AP;AMAPA              ;NORTE       ;12/2017;1.476
+16;AP;AMAPA              ;NORTE       ;12/2018;2.737
+16;AP;AMAPA              ;NORTE       ;12/2019;32
+17;TO;TOCANTINS          ;NORTE       ;01/2014;821
+17;TO;TOCANTINS          ;NORTE       ;01/2015;11
+17;TO;TOCANTINS          ;NORTE       ;01/2016;4.745
+17;TO;TOCANTINS          ;NORTE       ;01/2017;3.572
+17;TO;TOCANTINS          ;NORTE       ;01/2018;2.075
+17;TO;TOCANTINS          ;NORTE       ;01/2019;1.811
+17;TO;TOCANTINS          ;NORTE       ;01/2020;807
+17;TO;TOCANTINS          ;NORTE       ;02/2014;2.404
+17;TO;TOCANTINS          ;NORTE       ;02/2015;62
+17;TO;TOCANTINS          ;NORTE       ;02/2016;115
+17;TO;TOCANTINS          ;NORTE       ;02/2017;1.180
+17;TO;TOCANTINS          ;NORTE       ;02/2018;2.015
+17;TO;TOCANTINS          ;NORTE       ;02/2019;1.389
+17;TO;TOCANTINS          ;NORTE       ;02/2020;50
+17;TO;TOCANTINS          ;NORTE       ;03/2014;3.063
+17;TO;TOCANTINS          ;NORTE       ;03/2015;21
+17;TO;TOCANTINS          ;NORTE       ;03/2016;2.367
+17;TO;TOCANTINS          ;NORTE       ;03/2017;16
+17;TO;TOCANTINS          ;NORTE       ;03/2018;1.601
+17;TO;TOCANTINS          ;NORTE       ;03/2019;1.915
+17;TO;TOCANTINS          ;NORTE       ;04/2014;1.817
+17;TO;TOCANTINS          ;NORTE       ;04/2015;924
+17;TO;TOCANTINS          ;NORTE       ;04/2016;1.558
+17;TO;TOCANTINS          ;NORTE       ;04/2017;666
+17;TO;TOCANTINS          ;NORTE       ;04/2018;2.385
+17;TO;TOCANTINS          ;NORTE       ;04/2019;1.976
+17;TO;TOCANTINS          ;NORTE       ;05/2014;1.333
+17;TO;TOCANTINS          ;NORTE       ;05/2015;16
+17;TO;TOCANTINS          ;NORTE       ;05/2016;44
+17;TO;TOCANTINS          ;NORTE       ;05/2017;120
+17;TO;TOCANTINS          ;NORTE       ;05/2018;1.764
+17;TO;TOCANTINS          ;NORTE       ;05/2019;2.099
+17;TO;TOCANTINS          ;NORTE       ;06/2014;2.023
+17;TO;TOCANTINS          ;NORTE       ;06/2015;518
+17;TO;TOCANTINS          ;NORTE       ;06/2016;145
+17;TO;TOCANTINS          ;NORTE       ;06/2017;448
+17;TO;TOCANTINS          ;NORTE       ;06/2018;2.718
+17;TO;TOCANTINS          ;NORTE       ;06/2019;39
+17;TO;TOCANTINS          ;NORTE       ;07/2014;3.070
+17;TO;TOCANTINS          ;NORTE       ;07/2015;732
+17;TO;TOCANTINS          ;NORTE       ;07/2016;1.975
+17;TO;TOCANTINS          ;NORTE       ;07/2017;1.755
+17;TO;TOCANTINS          ;NORTE       ;07/2018;2.266
+17;TO;TOCANTINS          ;NORTE       ;07/2019;42
+17;TO;TOCANTINS          ;NORTE       ;08/2014;57
+17;TO;TOCANTINS          ;NORTE       ;08/2015;187
+17;TO;TOCANTINS          ;NORTE       ;08/2016;86
+17;TO;TOCANTINS          ;NORTE       ;08/2017;7.106
+17;TO;TOCANTINS          ;NORTE       ;08/2018;1.723
+17;TO;TOCANTINS          ;NORTE       ;08/2019;85
+17;TO;TOCANTINS          ;NORTE       ;09/2014;37
+17;TO;TOCANTINS          ;NORTE       ;09/2015;3.026
+17;TO;TOCANTINS          ;NORTE       ;09/2016;5.693
+17;TO;TOCANTINS          ;NORTE       ;09/2017;1.656
+17;TO;TOCANTINS          ;NORTE       ;09/2018;1.597
+17;TO;TOCANTINS          ;NORTE       ;09/2019;42
+17;TO;TOCANTINS          ;NORTE       ;10/2014;2
+17;TO;TOCANTINS          ;NORTE       ;10/2015;7.157
+17;TO;TOCANTINS          ;NORTE       ;10/2016;796
+17;TO;TOCANTINS          ;NORTE       ;10/2017;1.878
+17;TO;TOCANTINS          ;NORTE       ;10/2018;1.940
+17;TO;TOCANTINS          ;NORTE       ;10/2019;61
+17;TO;TOCANTINS          ;NORTE       ;11/2014;177
+17;TO;TOCANTINS          ;NORTE       ;11/2015;2.489
+17;TO;TOCANTINS          ;NORTE       ;11/2016;838
+17;TO;TOCANTINS          ;NORTE       ;11/2017;3.712
+17;TO;TOCANTINS          ;NORTE       ;11/2018;2.329
+17;TO;TOCANTINS          ;NORTE       ;11/2019;77
+17;TO;TOCANTINS          ;NORTE       ;12/2014;86
+17;TO;TOCANTINS          ;NORTE       ;12/2015;1.048
+17;TO;TOCANTINS          ;NORTE       ;12/2016;3.172
+17;TO;TOCANTINS          ;NORTE       ;12/2017;1.605
+17;TO;TOCANTINS          ;NORTE       ;12/2018;4.803
+17;TO;TOCANTINS          ;NORTE       ;12/2019;66
+21;MA;MARANHAO           ;NORDESTE    ;01/2014;3.734
+21;MA;MARANHAO           ;NORDESTE    ;01/2015;15
+21;MA;MARANHAO           ;NORDESTE    ;01/2016;40.414
+21;MA;MARANHAO           ;NORDESTE    ;01/2017;35.758
+21;MA;MARANHAO           ;NORDESTE    ;01/2018;10.928
+21;MA;MARANHAO           ;NORDESTE    ;01/2019;8.880
+21;MA;MARANHAO           ;NORDESTE    ;01/2020;361
+21;MA;MARANHAO           ;NORDESTE    ;02/2014;8.600
+21;MA;MARANHAO           ;NORDESTE    ;02/2015;1.484
+21;MA;MARANHAO           ;NORDESTE    ;02/2016;216
+21;MA;MARANHAO           ;NORDESTE    ;02/2017;6.667
+21;MA;MARANHAO           ;NORDESTE    ;02/2018;11.962
+21;MA;MARANHAO           ;NORDESTE    ;02/2019;8.132
+21;MA;MARANHAO           ;NORDESTE    ;02/2020;343
+21;MA;MARANHAO           ;NORDESTE    ;03/2014;21.833
+21;MA;MARANHAO           ;NORDESTE    ;03/2015;61
+21;MA;MARANHAO           ;NORDESTE    ;03/2016;16.869
+21;MA;MARANHAO           ;NORDESTE    ;03/2017;55
+21;MA;MARANHAO           ;NORDESTE    ;03/2018;8.537
+21;MA;MARANHAO           ;NORDESTE    ;03/2019;8.824
+21;MA;MARANHAO           ;NORDESTE    ;04/2014;12.614
+21;MA;MARANHAO           ;NORDESTE    ;04/2015;2.917
+21;MA;MARANHAO           ;NORDESTE    ;04/2016;6.881
+21;MA;MARANHAO           ;NORDESTE    ;04/2017;1.163
+21;MA;MARANHAO           ;NORDESTE    ;04/2018;11.794
+21;MA;MARANHAO           ;NORDESTE    ;04/2019;8.160
+21;MA;MARANHAO           ;NORDESTE    ;05/2014;7.473
+21;MA;MARANHAO           ;NORDESTE    ;05/2015;39
+21;MA;MARANHAO           ;NORDESTE    ;05/2016;574
+21;MA;MARANHAO           ;NORDESTE    ;05/2017;128
+21;MA;MARANHAO           ;NORDESTE    ;05/2018;10.295
+21;MA;MARANHAO           ;NORDESTE    ;05/2019;10.261
+21;MA;MARANHAO           ;NORDESTE    ;06/2014;9.927
+21;MA;MARANHAO           ;NORDESTE    ;06/2015;1.445
+21;MA;MARANHAO           ;NORDESTE    ;06/2016;366
+21;MA;MARANHAO           ;NORDESTE    ;06/2017;1.115
+21;MA;MARANHAO           ;NORDESTE    ;06/2018;14.216
+21;MA;MARANHAO           ;NORDESTE    ;06/2019;138
+21;MA;MARANHAO           ;NORDESTE    ;07/2014;32.475
+21;MA;MARANHAO           ;NORDESTE    ;07/2015;456
+21;MA;MARANHAO           ;NORDESTE    ;07/2016;5.745
+21;MA;MARANHAO           ;NORDESTE    ;07/2017;3.186
+21;MA;MARANHAO           ;NORDESTE    ;07/2018;10.586
+21;MA;MARANHAO           ;NORDESTE    ;07/2019;210
+21;MA;MARANHAO           ;NORDESTE    ;08/2014;526
+21;MA;MARANHAO           ;NORDESTE    ;08/2015;1.656
+21;MA;MARANHAO           ;NORDESTE    ;08/2016;589
+21;MA;MARANHAO           ;NORDESTE    ;08/2017;49.032
+21;MA;MARANHAO           ;NORDESTE    ;08/2018;10.316
+21;MA;MARANHAO           ;NORDESTE    ;08/2019;578
+21;MA;MARANHAO           ;NORDESTE    ;09/2014;702
+21;MA;MARANHAO           ;NORDESTE    ;09/2015;5.907
+21;MA;MARANHAO           ;NORDESTE    ;09/2016;31.946
+21;MA;MARANHAO           ;NORDESTE    ;09/2017;9.650
+21;MA;MARANHAO           ;NORDESTE    ;09/2018;9.657
+21;MA;MARANHAO           ;NORDESTE    ;09/2019;356
+21;MA;MARANHAO           ;NORDESTE    ;10/2014;30
+21;MA;MARANHAO           ;NORDESTE    ;10/2015;28.729
+21;MA;MARANHAO           ;NORDESTE    ;10/2016;2.397
+21;MA;MARANHAO           ;NORDESTE    ;10/2017;12.675
+21;MA;MARANHAO           ;NORDESTE    ;10/2018;8.926
+21;MA;MARANHAO           ;NORDESTE    ;10/2019;396
+21;MA;MARANHAO           ;NORDESTE    ;11/2014;357
+21;MA;MARANHAO           ;NORDESTE    ;11/2015;16.606
+21;MA;MARANHAO           ;NORDESTE    ;11/2016;3.003
+21;MA;MARANHAO           ;NORDESTE    ;11/2017;17.290
+21;MA;MARANHAO           ;NORDESTE    ;11/2018;13.234
+21;MA;MARANHAO           ;NORDESTE    ;11/2019;409
+21;MA;MARANHAO           ;NORDESTE    ;12/2014;104
+21;MA;MARANHAO           ;NORDESTE    ;12/2015;5.275
+21;MA;MARANHAO           ;NORDESTE    ;12/2016;15.276
+21;MA;MARANHAO           ;NORDESTE    ;12/2017;9.060
+21;MA;MARANHAO           ;NORDESTE    ;12/2018;26.887
+21;MA;MARANHAO           ;NORDESTE    ;12/2019;422
+22;PI;PIAUI              ;NORDESTE    ;01/2014;530
+22;PI;PIAUI              ;NORDESTE    ;01/2015;8
+22;PI;PIAUI              ;NORDESTE    ;01/2016;22.506
+22;PI;PIAUI              ;NORDESTE    ;01/2017;17.270
+22;PI;PIAUI              ;NORDESTE    ;01/2018;5.027
+22;PI;PIAUI              ;NORDESTE    ;01/2019;5.013
+22;PI;PIAUI              ;NORDESTE    ;01/2020;86
+22;PI;PIAUI              ;NORDESTE    ;02/2014;3.655
+22;PI;PIAUI              ;NORDESTE    ;02/2015;184
+22;PI;PIAUI              ;NORDESTE    ;02/2016;58
+22;PI;PIAUI              ;NORDESTE    ;02/2017;2.527
+22;PI;PIAUI              ;NORDESTE    ;02/2018;5.832
+22;PI;PIAUI              ;NORDESTE    ;02/2019;3.911
+22;PI;PIAUI              ;NORDESTE    ;02/2020;48
+22;PI;PIAUI              ;NORDESTE    ;03/2014;6.195
+22;PI;PIAUI              ;NORDESTE    ;03/2015;21
+22;PI;PIAUI              ;NORDESTE    ;03/2016;8.682
+22;PI;PIAUI              ;NORDESTE    ;03/2017;21
+22;PI;PIAUI              ;NORDESTE    ;03/2018;4.987
+22;PI;PIAUI              ;NORDESTE    ;03/2019;4.827
+22;PI;PIAUI              ;NORDESTE    ;04/2014;5.767
+22;PI;PIAUI              ;NORDESTE    ;04/2015;418
+22;PI;PIAUI              ;NORDESTE    ;04/2016;2.526
+22;PI;PIAUI              ;NORDESTE    ;04/2017;215
+22;PI;PIAUI              ;NORDESTE    ;04/2018;6.613
+22;PI;PIAUI              ;NORDESTE    ;04/2019;4.807
+22;PI;PIAUI              ;NORDESTE    ;05/2014;1.849
+22;PI;PIAUI              ;NORDESTE    ;05/2015;20
+22;PI;PIAUI              ;NORDESTE    ;05/2016;89
+22;PI;PIAUI              ;NORDESTE    ;05/2017;125
+22;PI;PIAUI              ;NORDESTE    ;05/2018;5.727
+22;PI;PIAUI              ;NORDESTE    ;05/2019;5.956
+22;PI;PIAUI              ;NORDESTE    ;06/2014;5.278
+22;PI;PIAUI              ;NORDESTE    ;06/2015;872
+22;PI;PIAUI              ;NORDESTE    ;06/2016;58
+22;PI;PIAUI              ;NORDESTE    ;06/2017;264
+22;PI;PIAUI              ;NORDESTE    ;06/2018;7.941
+22;PI;PIAUI              ;NORDESTE    ;06/2019;45
+22;PI;PIAUI              ;NORDESTE    ;07/2014;17.034
+22;PI;PIAUI              ;NORDESTE    ;07/2015;539
+22;PI;PIAUI              ;NORDESTE    ;07/2016;3.272
+22;PI;PIAUI              ;NORDESTE    ;07/2017;2.525
+22;PI;PIAUI              ;NORDESTE    ;07/2018;5.468
+22;PI;PIAUI              ;NORDESTE    ;07/2019;63
+22;PI;PIAUI              ;NORDESTE    ;08/2014;52
+22;PI;PIAUI              ;NORDESTE    ;08/2015;197
+22;PI;PIAUI              ;NORDESTE    ;08/2016;127
+22;PI;PIAUI              ;NORDESTE    ;08/2017;20.604
+22;PI;PIAUI              ;NORDESTE    ;08/2018;4.018
+22;PI;PIAUI              ;NORDESTE    ;08/2019;126
+22;PI;PIAUI              ;NORDESTE    ;09/2014;66
+22;PI;PIAUI              ;NORDESTE    ;09/2015;5.155
+22;PI;PIAUI              ;NORDESTE    ;09/2016;12.990
+22;PI;PIAUI              ;NORDESTE    ;09/2017;4.426
+22;PI;PIAUI              ;NORDESTE    ;09/2018;4.733
+22;PI;PIAUI              ;NORDESTE    ;09/2019;68
+22;PI;PIAUI              ;NORDESTE    ;10/2014;10
+22;PI;PIAUI              ;NORDESTE    ;10/2015;13.721
+22;PI;PIAUI              ;NORDESTE    ;10/2016;1.985
+22;PI;PIAUI              ;NORDESTE    ;10/2017;5.088
+22;PI;PIAUI              ;NORDESTE    ;10/2018;4.737
+22;PI;PIAUI              ;NORDESTE    ;10/2019;86
+22;PI;PIAUI              ;NORDESTE    ;11/2014;207
+22;PI;PIAUI              ;NORDESTE    ;11/2015;8.619
+22;PI;PIAUI              ;NORDESTE    ;11/2016;1.008
+22;PI;PIAUI              ;NORDESTE    ;11/2017;7.717
+22;PI;PIAUI              ;NORDESTE    ;11/2018;6.537
+22;PI;PIAUI              ;NORDESTE    ;11/2019;111
+22;PI;PIAUI              ;NORDESTE    ;12/2014;25
+22;PI;PIAUI              ;NORDESTE    ;12/2015;1.781
+22;PI;PIAUI              ;NORDESTE    ;12/2016;4.078
+22;PI;PIAUI              ;NORDESTE    ;12/2017;4.294
+22;PI;PIAUI              ;NORDESTE    ;12/2018;12.620
+22;PI;PIAUI              ;NORDESTE    ;12/2019;103
+23;CE;CEARA              ;NORDESTE    ;01/2014;6.003
+23;CE;CEARA              ;NORDESTE    ;01/2015;9
+23;CE;CEARA              ;NORDESTE    ;01/2016;25.256
+23;CE;CEARA              ;NORDESTE    ;01/2017;16.627
+23;CE;CEARA              ;NORDESTE    ;01/2018;13.647
+23;CE;CEARA              ;NORDESTE    ;01/2019;11.542
+23;CE;CEARA              ;NORDESTE    ;01/2020;516
+23;CE;CEARA              ;NORDESTE    ;02/2014;20.615
+23;CE;CEARA              ;NORDESTE    ;02/2015;91
+23;CE;CEARA              ;NORDESTE    ;02/2016;746
+23;CE;CEARA              ;NORDESTE    ;02/2017;6.737
+23;CE;CEARA              ;NORDESTE    ;02/2018;13.999
+23;CE;CEARA              ;NORDESTE    ;02/2019;8.995
+23;CE;CEARA              ;NORDESTE    ;02/2020;134
+23;CE;CEARA              ;NORDESTE    ;03/2014;28.592
+23;CE;CEARA              ;NORDESTE    ;03/2015;78
+23;CE;CEARA              ;NORDESTE    ;03/2016;11.707
+23;CE;CEARA              ;NORDESTE    ;03/2017;29
+23;CE;CEARA              ;NORDESTE    ;03/2018;11.058
+23;CE;CEARA              ;NORDESTE    ;03/2019;11.603
+23;CE;CEARA              ;NORDESTE    ;04/2014;9.731
+23;CE;CEARA              ;NORDESTE    ;04/2015;1.155
+23;CE;CEARA              ;NORDESTE    ;04/2016;10.500
+23;CE;CEARA              ;NORDESTE    ;04/2017;3.068
+23;CE;CEARA              ;NORDESTE    ;04/2018;15.419
+23;CE;CEARA              ;NORDESTE    ;04/2019;12.134
+23;CE;CEARA              ;NORDESTE    ;05/2014;7.210
+23;CE;CEARA              ;NORDESTE    ;05/2015;25
+23;CE;CEARA              ;NORDESTE    ;05/2016;98
+23;CE;CEARA              ;NORDESTE    ;05/2017;736
+23;CE;CEARA              ;NORDESTE    ;05/2018;14.387
+23;CE;CEARA              ;NORDESTE    ;05/2019;13.777
+23;CE;CEARA              ;NORDESTE    ;06/2014;9.944
+23;CE;CEARA              ;NORDESTE    ;06/2015;1.158
+23;CE;CEARA              ;NORDESTE    ;06/2016;282
+23;CE;CEARA              ;NORDESTE    ;06/2017;2.146
+23;CE;CEARA              ;NORDESTE    ;06/2018;18.304
+23;CE;CEARA              ;NORDESTE    ;06/2019;58
+23;CE;CEARA              ;NORDESTE    ;07/2014;23.816
+23;CE;CEARA              ;NORDESTE    ;07/2015;4.359
+23;CE;CEARA              ;NORDESTE    ;07/2016;10.399
+23;CE;CEARA              ;NORDESTE    ;07/2017;4.938
+23;CE;CEARA              ;NORDESTE    ;07/2018;14.715
+23;CE;CEARA              ;NORDESTE    ;07/2019;85
+23;CE;CEARA              ;NORDESTE    ;08/2014;44
+23;CE;CEARA              ;NORDESTE    ;08/2015;464
+23;CE;CEARA              ;NORDESTE    ;08/2016;197
+23;CE;CEARA              ;NORDESTE    ;08/2017;52.276
+23;CE;CEARA              ;NORDESTE    ;08/2018;11.090
+23;CE;CEARA              ;NORDESTE    ;08/2019;292
+23;CE;CEARA              ;NORDESTE    ;09/2014;58
+23;CE;CEARA              ;NORDESTE    ;09/2015;18.219
+23;CE;CEARA              ;NORDESTE    ;09/2016;51.416
+23;CE;CEARA              ;NORDESTE    ;09/2017;13.198
+23;CE;CEARA              ;NORDESTE    ;09/2018;14.950
+23;CE;CEARA              ;NORDESTE    ;09/2019;165
+23;CE;CEARA              ;NORDESTE    ;10/2014;14
+23;CE;CEARA              ;NORDESTE    ;10/2015;64.157
+23;CE;CEARA              ;NORDESTE    ;10/2016;4.850
+23;CE;CEARA              ;NORDESTE    ;10/2017;14.734
+23;CE;CEARA              ;NORDESTE    ;10/2018;13.129
+23;CE;CEARA              ;NORDESTE    ;10/2019;192
+23;CE;CEARA              ;NORDESTE    ;11/2014;610
+23;CE;CEARA              ;NORDESTE    ;11/2015;16.522
+23;CE;CEARA              ;NORDESTE    ;11/2016;3.456
+23;CE;CEARA              ;NORDESTE    ;11/2017;21.571
+23;CE;CEARA              ;NORDESTE    ;11/2018;18.038
+23;CE;CEARA              ;NORDESTE    ;11/2019;191
+23;CE;CEARA              ;NORDESTE    ;12/2014;51
+23;CE;CEARA              ;NORDESTE    ;12/2015;7.921
+23;CE;CEARA              ;NORDESTE    ;12/2016;23.320
+23;CE;CEARA              ;NORDESTE    ;12/2017;12.441
+23;CE;CEARA              ;NORDESTE    ;12/2018;30.585
+23;CE;CEARA              ;NORDESTE    ;12/2019;193
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2014;1.052
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2015;10
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2016;14.207
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2017;9.739
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2018;4.430
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2019;4.729
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;01/2020;207
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2014;2.998
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2015;29
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2016;48
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2017;2.342
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2018;4.653
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2019;3.692
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;02/2020;109
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2014;7.256
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2015;34
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2016;5.086
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2017;43
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2018;3.479
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;03/2019;4.201
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2014;3.032
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2015;523
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2016;2.354
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2017;689
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2018;6.018
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;04/2019;3.553
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2014;3.757
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2015;39
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2016;83
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2017;70
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2018;6.030
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;05/2019;5.004
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2014;4.113
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2015;137
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2016;80
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2017;146
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2018;7.087
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;06/2019;78
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2014;11.070
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2015;2.316
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2016;4.802
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2017;4.548
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2018;5.620
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;07/2019;61
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2014;72
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2015;55
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2016;164
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2017;17.166
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2018;4.046
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;08/2019;203
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2014;54
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2015;11.241
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2016;12.494
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2017;4.317
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2018;6.224
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;09/2019;139
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2014;18
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2015;11.487
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2016;2.147
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2017;4.555
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2018;4.762
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;10/2019;124
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2014;300
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2015;7.233
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2016;1.576
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2017;6.801
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2018;6.570
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;11/2019;140
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2014;27
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2015;2.217
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2016;5.635
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2017;4.005
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2018;10.637
+24;RN;RIO GRANDE DO NORTE;NORDESTE    ;12/2019;140
+25;PB;PARAIBA            ;NORDESTE    ;01/2014;2.004
+25;PB;PARAIBA            ;NORDESTE    ;01/2015;25
+25;PB;PARAIBA            ;NORDESTE    ;01/2016;23.227
+25;PB;PARAIBA            ;NORDESTE    ;01/2017;17.574
+25;PB;PARAIBA            ;NORDESTE    ;01/2018;5.533
+25;PB;PARAIBA            ;NORDESTE    ;01/2019;5.326
+25;PB;PARAIBA            ;NORDESTE    ;01/2020;116
+25;PB;PARAIBA            ;NORDESTE    ;02/2014;3.364
+25;PB;PARAIBA            ;NORDESTE    ;02/2015;177
+25;PB;PARAIBA            ;NORDESTE    ;02/2016;44
+25;PB;PARAIBA            ;NORDESTE    ;02/2017;3.521
+25;PB;PARAIBA            ;NORDESTE    ;02/2018;5.779
+25;PB;PARAIBA            ;NORDESTE    ;02/2019;4.897
+25;PB;PARAIBA            ;NORDESTE    ;02/2020;127
+25;PB;PARAIBA            ;NORDESTE    ;03/2014;10.228
+25;PB;PARAIBA            ;NORDESTE    ;03/2015;40
+25;PB;PARAIBA            ;NORDESTE    ;03/2016;10.402
+25;PB;PARAIBA            ;NORDESTE    ;03/2017;28
+25;PB;PARAIBA            ;NORDESTE    ;03/2018;4.875
+25;PB;PARAIBA            ;NORDESTE    ;03/2019;5.262
+25;PB;PARAIBA            ;NORDESTE    ;04/2014;5.385
+25;PB;PARAIBA            ;NORDESTE    ;04/2015;777
+25;PB;PARAIBA            ;NORDESTE    ;04/2016;2.568
+25;PB;PARAIBA            ;NORDESTE    ;04/2017;313
+25;PB;PARAIBA            ;NORDESTE    ;04/2018;6.493
+25;PB;PARAIBA            ;NORDESTE    ;04/2019;4.775
+25;PB;PARAIBA            ;NORDESTE    ;05/2014;2.672
+25;PB;PARAIBA            ;NORDESTE    ;05/2015;35
+25;PB;PARAIBA            ;NORDESTE    ;05/2016;171
+25;PB;PARAIBA            ;NORDESTE    ;05/2017;72
+25;PB;PARAIBA            ;NORDESTE    ;05/2018;6.758
+25;PB;PARAIBA            ;NORDESTE    ;05/2019;6.199
+25;PB;PARAIBA            ;NORDESTE    ;06/2014;6.620
+25;PB;PARAIBA            ;NORDESTE    ;06/2015;262
+25;PB;PARAIBA            ;NORDESTE    ;06/2016;137
+25;PB;PARAIBA            ;NORDESTE    ;06/2017;240
+25;PB;PARAIBA            ;NORDESTE    ;06/2018;7.853
+25;PB;PARAIBA            ;NORDESTE    ;06/2019;64
+25;PB;PARAIBA            ;NORDESTE    ;07/2014;18.855
+25;PB;PARAIBA            ;NORDESTE    ;07/2015;37
+25;PB;PARAIBA            ;NORDESTE    ;07/2016;2.117
+25;PB;PARAIBA            ;NORDESTE    ;07/2017;1.646
+25;PB;PARAIBA            ;NORDESTE    ;07/2018;5.749
+25;PB;PARAIBA            ;NORDESTE    ;07/2019;75
+25;PB;PARAIBA            ;NORDESTE    ;08/2014;119
+25;PB;PARAIBA            ;NORDESTE    ;08/2015;163
+25;PB;PARAIBA            ;NORDESTE    ;08/2016;223
+25;PB;PARAIBA            ;NORDESTE    ;08/2017;23.469
+25;PB;PARAIBA            ;NORDESTE    ;08/2018;4.819
+25;PB;PARAIBA            ;NORDESTE    ;08/2019;185
+25;PB;PARAIBA            ;NORDESTE    ;09/2014;96
+25;PB;PARAIBA            ;NORDESTE    ;09/2015;4.376
+25;PB;PARAIBA            ;NORDESTE    ;09/2016;16.636
+25;PB;PARAIBA            ;NORDESTE    ;09/2017;5.725
+25;PB;PARAIBA            ;NORDESTE    ;09/2018;7.212
+25;PB;PARAIBA            ;NORDESTE    ;09/2019;118
+25;PB;PARAIBA            ;NORDESTE    ;10/2014;20
+25;PB;PARAIBA            ;NORDESTE    ;10/2015;13.978
+25;PB;PARAIBA            ;NORDESTE    ;10/2016;1.054
+25;PB;PARAIBA            ;NORDESTE    ;10/2017;6.089
+25;PB;PARAIBA            ;NORDESTE    ;10/2018;5.821
+25;PB;PARAIBA            ;NORDESTE    ;10/2019;187
+25;PB;PARAIBA            ;NORDESTE    ;11/2014;369
+25;PB;PARAIBA            ;NORDESTE    ;11/2015;11.501
+25;PB;PARAIBA            ;NORDESTE    ;11/2016;909
+25;PB;PARAIBA            ;NORDESTE    ;11/2017;9.169
+25;PB;PARAIBA            ;NORDESTE    ;11/2018;7.376
+25;PB;PARAIBA            ;NORDESTE    ;11/2019;176
+25;PB;PARAIBA            ;NORDESTE    ;12/2014;46
+25;PB;PARAIBA            ;NORDESTE    ;12/2015;3.386
+25;PB;PARAIBA            ;NORDESTE    ;12/2016;6.647
+25;PB;PARAIBA            ;NORDESTE    ;12/2017;5.353
+25;PB;PARAIBA            ;NORDESTE    ;12/2018;15.077
+25;PB;PARAIBA            ;NORDESTE    ;12/2019;120
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2014;2.322
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2015;32
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2016;56.038
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2017;48.306
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2018;13.873
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2019;16.245
+26;PE;PERNAMBUCO         ;NORDESTE    ;01/2020;414
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2014;14.948
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2015;593
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2016;250
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2017;8.374
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2018;15.142
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2019;12.618
+26;PE;PERNAMBUCO         ;NORDESTE    ;02/2020;382
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2014;22.743
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2015;119
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2016;19.706
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2017;86
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2018;12.250
+26;PE;PERNAMBUCO         ;NORDESTE    ;03/2019;14.513
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2014;12.560
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2015;3.953
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2016;8.240
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2017;2.975
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2018;16.418
+26;PE;PERNAMBUCO         ;NORDESTE    ;04/2019;13.078
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2014;7.291
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2015;71
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2016;405
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2017;159
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2018;16.493
+26;PE;PERNAMBUCO         ;NORDESTE    ;05/2019;17.374
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2014;12.542
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2015;1.488
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2016;256
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2017;1.184
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2018;20.503
+26;PE;PERNAMBUCO         ;NORDESTE    ;06/2019;211
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2014;36.511
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2015;1.839
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2016;13.677
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2017;9.606
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2018;14.850
+26;PE;PERNAMBUCO         ;NORDESTE    ;07/2019;232
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2014;279
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2015;870
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2016;471
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2017;62.654
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2018;11.502
+26;PE;PERNAMBUCO         ;NORDESTE    ;08/2019;691
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2014;259
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2015;27.618
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2016;37.410
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2017;16.329
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2018;16.521
+26;PE;PERNAMBUCO         ;NORDESTE    ;09/2019;364
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2014;42
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2015;33.320
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2016;6.821
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2017;17.667
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2018;15.591
+26;PE;PERNAMBUCO         ;NORDESTE    ;10/2019;428
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2014;880
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2015;18.958
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2016;4.945
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2017;25.480
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2018;22.518
+26;PE;PERNAMBUCO         ;NORDESTE    ;11/2019;503
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2014;111
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2015;6.211
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2016;14.789
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2017;13.379
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2018;38.836
+26;PE;PERNAMBUCO         ;NORDESTE    ;12/2019;451
+27;AL;ALAGOAS            ;NORDESTE    ;01/2014;1.096
+27;AL;ALAGOAS            ;NORDESTE    ;01/2015;12
+27;AL;ALAGOAS            ;NORDESTE    ;01/2016;13.705
+27;AL;ALAGOAS            ;NORDESTE    ;01/2017;10.006
+27;AL;ALAGOAS            ;NORDESTE    ;01/2018;4.781
+27;AL;ALAGOAS            ;NORDESTE    ;01/2019;4.824
+27;AL;ALAGOAS            ;NORDESTE    ;01/2020;111
+27;AL;ALAGOAS            ;NORDESTE    ;02/2014;3.370
+27;AL;ALAGOAS            ;NORDESTE    ;02/2015;171
+27;AL;ALAGOAS            ;NORDESTE    ;02/2016;530
+27;AL;ALAGOAS            ;NORDESTE    ;02/2017;3.238
+27;AL;ALAGOAS            ;NORDESTE    ;02/2018;5.524
+27;AL;ALAGOAS            ;NORDESTE    ;02/2019;3.573
+27;AL;ALAGOAS            ;NORDESTE    ;02/2020;107
+27;AL;ALAGOAS            ;NORDESTE    ;03/2014;11.094
+27;AL;ALAGOAS            ;NORDESTE    ;03/2015;25
+27;AL;ALAGOAS            ;NORDESTE    ;03/2016;5.443
+27;AL;ALAGOAS            ;NORDESTE    ;03/2017;29
+27;AL;ALAGOAS            ;NORDESTE    ;03/2018;4.005
+27;AL;ALAGOAS            ;NORDESTE    ;03/2019;4.137
+27;AL;ALAGOAS            ;NORDESTE    ;04/2014;4.872
+27;AL;ALAGOAS            ;NORDESTE    ;04/2015;482
+27;AL;ALAGOAS            ;NORDESTE    ;04/2016;3.402
+27;AL;ALAGOAS            ;NORDESTE    ;04/2017;2.523
+27;AL;ALAGOAS            ;NORDESTE    ;04/2018;6.345
+27;AL;ALAGOAS            ;NORDESTE    ;04/2019;3.779
+27;AL;ALAGOAS            ;NORDESTE    ;05/2014;3.644
+27;AL;ALAGOAS            ;NORDESTE    ;05/2015;13
+27;AL;ALAGOAS            ;NORDESTE    ;05/2016;67
+27;AL;ALAGOAS            ;NORDESTE    ;05/2017;495
+27;AL;ALAGOAS            ;NORDESTE    ;05/2018;6.028
+27;AL;ALAGOAS            ;NORDESTE    ;05/2019;5.096
+27;AL;ALAGOAS            ;NORDESTE    ;06/2014;5.196
+27;AL;ALAGOAS            ;NORDESTE    ;06/2015;218
+27;AL;ALAGOAS            ;NORDESTE    ;06/2016;1.928
+27;AL;ALAGOAS            ;NORDESTE    ;06/2017;1.940
+27;AL;ALAGOAS            ;NORDESTE    ;06/2018;8.209
+27;AL;ALAGOAS            ;NORDESTE    ;06/2019;45
+27;AL;ALAGOAS            ;NORDESTE    ;07/2014;11.056
+27;AL;ALAGOAS            ;NORDESTE    ;07/2015;32
+27;AL;ALAGOAS            ;NORDESTE    ;07/2016;3.864
+27;AL;ALAGOAS            ;NORDESTE    ;07/2017;2.791
+27;AL;ALAGOAS            ;NORDESTE    ;07/2018;6.111
+27;AL;ALAGOAS            ;NORDESTE    ;07/2019;66
+27;AL;ALAGOAS            ;NORDESTE    ;08/2014;77
+27;AL;ALAGOAS            ;NORDESTE    ;08/2015;127
+27;AL;ALAGOAS            ;NORDESTE    ;08/2016;136
+27;AL;ALAGOAS            ;NORDESTE    ;08/2017;18.849
+27;AL;ALAGOAS            ;NORDESTE    ;08/2018;4.676
+27;AL;ALAGOAS            ;NORDESTE    ;08/2019;160
+27;AL;ALAGOAS            ;NORDESTE    ;09/2014;86
+27;AL;ALAGOAS            ;NORDESTE    ;09/2015;7.885
+27;AL;ALAGOAS            ;NORDESTE    ;09/2016;17.209
+27;AL;ALAGOAS            ;NORDESTE    ;09/2017;5.236
+27;AL;ALAGOAS            ;NORDESTE    ;09/2018;5.720
+27;AL;ALAGOAS            ;NORDESTE    ;09/2019;106
+27;AL;ALAGOAS            ;NORDESTE    ;10/2014;14
+27;AL;ALAGOAS            ;NORDESTE    ;10/2015;13.050
+27;AL;ALAGOAS            ;NORDESTE    ;10/2016;4.624
+27;AL;ALAGOAS            ;NORDESTE    ;10/2017;5.823
+27;AL;ALAGOAS            ;NORDESTE    ;10/2018;4.833
+27;AL;ALAGOAS            ;NORDESTE    ;10/2019;111
+27;AL;ALAGOAS            ;NORDESTE    ;11/2014;163
+27;AL;ALAGOAS            ;NORDESTE    ;11/2015;7.063
+27;AL;ALAGOAS            ;NORDESTE    ;11/2016;2.074
+27;AL;ALAGOAS            ;NORDESTE    ;11/2017;8.634
+27;AL;ALAGOAS            ;NORDESTE    ;11/2018;6.654
+27;AL;ALAGOAS            ;NORDESTE    ;11/2019;138
+27;AL;ALAGOAS            ;NORDESTE    ;12/2014;21
+27;AL;ALAGOAS            ;NORDESTE    ;12/2015;2.443
+27;AL;ALAGOAS            ;NORDESTE    ;12/2016;6.691
+27;AL;ALAGOAS            ;NORDESTE    ;12/2017;4.397
+27;AL;ALAGOAS            ;NORDESTE    ;12/2018;12.922
+27;AL;ALAGOAS            ;NORDESTE    ;12/2019;100
+28;SE;SERGIPE            ;NORDESTE    ;01/2014;1.365
+28;SE;SERGIPE            ;NORDESTE    ;01/2015;11
+28;SE;SERGIPE            ;NORDESTE    ;01/2016;12.496
+28;SE;SERGIPE            ;NORDESTE    ;01/2017;10.424
+28;SE;SERGIPE            ;NORDESTE    ;01/2018;3.507
+28;SE;SERGIPE            ;NORDESTE    ;01/2019;3.872
+28;SE;SERGIPE            ;NORDESTE    ;01/2020;101
+28;SE;SERGIPE            ;NORDESTE    ;02/2014;3.277
+28;SE;SERGIPE            ;NORDESTE    ;02/2015;66
+28;SE;SERGIPE            ;NORDESTE    ;02/2016;27
+28;SE;SERGIPE            ;NORDESTE    ;02/2017;1.894
+28;SE;SERGIPE            ;NORDESTE    ;02/2018;4.182
+28;SE;SERGIPE            ;NORDESTE    ;02/2019;2.996
+28;SE;SERGIPE            ;NORDESTE    ;02/2020;93
+28;SE;SERGIPE            ;NORDESTE    ;03/2014;7.278
+28;SE;SERGIPE            ;NORDESTE    ;03/2015;21
+28;SE;SERGIPE            ;NORDESTE    ;03/2016;4.575
+28;SE;SERGIPE            ;NORDESTE    ;03/2017;20
+28;SE;SERGIPE            ;NORDESTE    ;03/2018;3.156
+28;SE;SERGIPE            ;NORDESTE    ;03/2019;3.243
+28;SE;SERGIPE            ;NORDESTE    ;04/2014;2.636
+28;SE;SERGIPE            ;NORDESTE    ;04/2015;359
+28;SE;SERGIPE            ;NORDESTE    ;04/2016;1.942
+28;SE;SERGIPE            ;NORDESTE    ;04/2017;871
+28;SE;SERGIPE            ;NORDESTE    ;04/2018;5.064
+28;SE;SERGIPE            ;NORDESTE    ;04/2019;3.014
+28;SE;SERGIPE            ;NORDESTE    ;05/2014;1.660
+28;SE;SERGIPE            ;NORDESTE    ;05/2015;17
+28;SE;SERGIPE            ;NORDESTE    ;05/2016;111
+28;SE;SERGIPE            ;NORDESTE    ;05/2017;43
+28;SE;SERGIPE            ;NORDESTE    ;05/2018;5.260
+28;SE;SERGIPE            ;NORDESTE    ;05/2019;4.317
+28;SE;SERGIPE            ;NORDESTE    ;06/2014;2.780
+28;SE;SERGIPE            ;NORDESTE    ;06/2015;213
+28;SE;SERGIPE            ;NORDESTE    ;06/2016;53
+28;SE;SERGIPE            ;NORDESTE    ;06/2017;130
+28;SE;SERGIPE            ;NORDESTE    ;06/2018;6.039
+28;SE;SERGIPE            ;NORDESTE    ;06/2019;60
+28;SE;SERGIPE            ;NORDESTE    ;07/2014;10.266
+28;SE;SERGIPE            ;NORDESTE    ;07/2015;38
+28;SE;SERGIPE            ;NORDESTE    ;07/2016;1.761
+28;SE;SERGIPE            ;NORDESTE    ;07/2017;1.309
+28;SE;SERGIPE            ;NORDESTE    ;07/2018;4.030
+28;SE;SERGIPE            ;NORDESTE    ;07/2019;55
+28;SE;SERGIPE            ;NORDESTE    ;08/2014;47
+28;SE;SERGIPE            ;NORDESTE    ;08/2015;88
+28;SE;SERGIPE            ;NORDESTE    ;08/2016;114
+28;SE;SERGIPE            ;NORDESTE    ;08/2017;15.895
+28;SE;SERGIPE            ;NORDESTE    ;08/2018;2.782
+28;SE;SERGIPE            ;NORDESTE    ;08/2019;143
+28;SE;SERGIPE            ;NORDESTE    ;09/2014;60
+28;SE;SERGIPE            ;NORDESTE    ;09/2015;870
+28;SE;SERGIPE            ;NORDESTE    ;09/2016;11.446
+28;SE;SERGIPE            ;NORDESTE    ;09/2017;3.593
+28;SE;SERGIPE            ;NORDESTE    ;09/2018;4.933
+28;SE;SERGIPE            ;NORDESTE    ;09/2019;71
+28;SE;SERGIPE            ;NORDESTE    ;10/2014;6
+28;SE;SERGIPE            ;NORDESTE    ;10/2015;9.994
+28;SE;SERGIPE            ;NORDESTE    ;10/2016;1.006
+28;SE;SERGIPE            ;NORDESTE    ;10/2017;3.947
+28;SE;SERGIPE            ;NORDESTE    ;10/2018;4.002
+28;SE;SERGIPE            ;NORDESTE    ;10/2019;115
+28;SE;SERGIPE            ;NORDESTE    ;11/2014;190
+28;SE;SERGIPE            ;NORDESTE    ;11/2015;6.925
+28;SE;SERGIPE            ;NORDESTE    ;11/2016;641
+28;SE;SERGIPE            ;NORDESTE    ;11/2017;6.145
+28;SE;SERGIPE            ;NORDESTE    ;11/2018;4.888
+28;SE;SERGIPE            ;NORDESTE    ;11/2019;133
+28;SE;SERGIPE            ;NORDESTE    ;12/2014;29
+28;SE;SERGIPE            ;NORDESTE    ;12/2015;1.180
+28;SE;SERGIPE            ;NORDESTE    ;12/2016;4.456
+28;SE;SERGIPE            ;NORDESTE    ;12/2017;3.209
+28;SE;SERGIPE            ;NORDESTE    ;12/2018;8.707
+28;SE;SERGIPE            ;NORDESTE    ;12/2019;97
+29;BA;BAHIA              ;NORDESTE    ;01/2014;7.424
+29;BA;BAHIA              ;NORDESTE    ;01/2015;26
+29;BA;BAHIA              ;NORDESTE    ;01/2016;87.010
+29;BA;BAHIA              ;NORDESTE    ;01/2017;65.509
+29;BA;BAHIA              ;NORDESTE    ;01/2018;24.011
+29;BA;BAHIA              ;NORDESTE    ;01/2019;21.675
+29;BA;BAHIA              ;NORDESTE    ;01/2020;1.123
+29;BA;BAHIA              ;NORDESTE    ;02/2014;13.317
+29;BA;BAHIA              ;NORDESTE    ;02/2015;1.248
+29;BA;BAHIA              ;NORDESTE    ;02/2016;600
+29;BA;BAHIA              ;NORDESTE    ;02/2017;12.264
+29;BA;BAHIA              ;NORDESTE    ;02/2018;29.240
+29;BA;BAHIA              ;NORDESTE    ;02/2019;17.736
+29;BA;BAHIA              ;NORDESTE    ;02/2020;550
+29;BA;BAHIA              ;NORDESTE    ;03/2014;32.498
+29;BA;BAHIA              ;NORDESTE    ;03/2015;214
+29;BA;BAHIA              ;NORDESTE    ;03/2016;33.247
+29;BA;BAHIA              ;NORDESTE    ;03/2017;124
+29;BA;BAHIA              ;NORDESTE    ;03/2018;18.631
+29;BA;BAHIA              ;NORDESTE    ;03/2019;21.250
+29;BA;BAHIA              ;NORDESTE    ;04/2014;20.982
+29;BA;BAHIA              ;NORDESTE    ;04/2015;18.463
+29;BA;BAHIA              ;NORDESTE    ;04/2016;13.752
+29;BA;BAHIA              ;NORDESTE    ;04/2017;2.410
+29;BA;BAHIA              ;NORDESTE    ;04/2018;25.437
+29;BA;BAHIA              ;NORDESTE    ;04/2019;20.153
+29;BA;BAHIA              ;NORDESTE    ;05/2014;13.324
+29;BA;BAHIA              ;NORDESTE    ;05/2015;105
+29;BA;BAHIA              ;NORDESTE    ;05/2016;821
+29;BA;BAHIA              ;NORDESTE    ;05/2017;819
+29;BA;BAHIA              ;NORDESTE    ;05/2018;24.533
+29;BA;BAHIA              ;NORDESTE    ;05/2019;24.112
+29;BA;BAHIA              ;NORDESTE    ;06/2014;21.709
+29;BA;BAHIA              ;NORDESTE    ;06/2015;2.917
+29;BA;BAHIA              ;NORDESTE    ;06/2016;770
+29;BA;BAHIA              ;NORDESTE    ;06/2017;1.926
+29;BA;BAHIA              ;NORDESTE    ;06/2018;33.841
+29;BA;BAHIA              ;NORDESTE    ;06/2019;299
+29;BA;BAHIA              ;NORDESTE    ;07/2014;58.965
+29;BA;BAHIA              ;NORDESTE    ;07/2015;12.016
+29;BA;BAHIA              ;NORDESTE    ;07/2016;23.935
+29;BA;BAHIA              ;NORDESTE    ;07/2017;8.238
+29;BA;BAHIA              ;NORDESTE    ;07/2018;22.456
+29;BA;BAHIA              ;NORDESTE    ;07/2019;426
+29;BA;BAHIA              ;NORDESTE    ;08/2014;397
+29;BA;BAHIA              ;NORDESTE    ;08/2015;1.339
+29;BA;BAHIA              ;NORDESTE    ;08/2016;698
+29;BA;BAHIA              ;NORDESTE    ;08/2017;106.842
+29;BA;BAHIA              ;NORDESTE    ;08/2018;15.164
+29;BA;BAHIA              ;NORDESTE    ;08/2019;960
+29;BA;BAHIA              ;NORDESTE    ;09/2014;427
+29;BA;BAHIA              ;NORDESTE    ;09/2015;51.004
+29;BA;BAHIA              ;NORDESTE    ;09/2016;56.686
+29;BA;BAHIA              ;NORDESTE    ;09/2017;24.435
+29;BA;BAHIA              ;NORDESTE    ;09/2018;25.231
+29;BA;BAHIA              ;NORDESTE    ;09/2019;445
+29;BA;BAHIA              ;NORDESTE    ;10/2014;40
+29;BA;BAHIA              ;NORDESTE    ;10/2015;47.757
+29;BA;BAHIA              ;NORDESTE    ;10/2016;10.067
+29;BA;BAHIA              ;NORDESTE    ;10/2017;25.506
+29;BA;BAHIA              ;NORDESTE    ;10/2018;21.708
+29;BA;BAHIA              ;NORDESTE    ;10/2019;687
+29;BA;BAHIA              ;NORDESTE    ;11/2014;1.373
+29;BA;BAHIA              ;NORDESTE    ;11/2015;31.127
+29;BA;BAHIA              ;NORDESTE    ;11/2016;9.263
+29;BA;BAHIA              ;NORDESTE    ;11/2017;39.596
+29;BA;BAHIA              ;NORDESTE    ;11/2018;32.436
+29;BA;BAHIA              ;NORDESTE    ;11/2019;788
+29;BA;BAHIA              ;NORDESTE    ;12/2014;148
+29;BA;BAHIA              ;NORDESTE    ;12/2015;12.064
+29;BA;BAHIA              ;NORDESTE    ;12/2016;22.814
+29;BA;BAHIA              ;NORDESTE    ;12/2017;21.757
+29;BA;BAHIA              ;NORDESTE    ;12/2018;58.408
+29;BA;BAHIA              ;NORDESTE    ;12/2019;649
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2014;8.702
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2015;28
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2016;30.643
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2017;29.422
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2018;18.174
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2019;18.851
+31;MG;MINAS GERAIS       ;SUDESTE     ;01/2020;17.393
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2014;15.126
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2015;536
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2016;3.194
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2017;10.974
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2018;20.897
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2019;15.721
+31;MG;MINAS GERAIS       ;SUDESTE     ;02/2020;334
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2014;23.986
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2015;194
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2016;17.897
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2017;76
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2018;16.230
+31;MG;MINAS GERAIS       ;SUDESTE     ;03/2019;19.102
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2014;15.570
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2015;33.765
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2016;15.732
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2017;14.149
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2018;24.090
+31;MG;MINAS GERAIS       ;SUDESTE     ;04/2019;19.299
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2014;13.036
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2015;89
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2016;374
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2017;5.337
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2018;22.718
+31;MG;MINAS GERAIS       ;SUDESTE     ;05/2019;23.536
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2014;14.232
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2015;10.668
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2016;6.351
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2017;9.153
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2018;25.918
+31;MG;MINAS GERAIS       ;SUDESTE     ;06/2019;174
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2014;24.134
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2015;14.361
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2016;28.981
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2017;20.374
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2018;19.981
+31;MG;MINAS GERAIS       ;SUDESTE     ;07/2019;177
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2014;297
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2015;5.857
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2016;2.483
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2017;56.974
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2018;16.646
+31;MG;MINAS GERAIS       ;SUDESTE     ;08/2019;617
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2014;184
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2015;34.237
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2016;52.831
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2017;18.610
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2018;19.977
+31;MG;MINAS GERAIS       ;SUDESTE     ;09/2019;342
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2014;42
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2015;42.536
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2016;16.087
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2017;20.573
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2018;18.635
+31;MG;MINAS GERAIS       ;SUDESTE     ;10/2019;387
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2014;6.973
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2015;23.265
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2016;10.700
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2017;31.050
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2018;25.582
+31;MG;MINAS GERAIS       ;SUDESTE     ;11/2019;427
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2014;1.497
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2015;10.600
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2016;21.422
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2017;17.397
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2018;46.832
+31;MG;MINAS GERAIS       ;SUDESTE     ;12/2019;417
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2014;1.696
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2015;7
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2016;4.248
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2017;3.177
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2018;4.693
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2019;3.700
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;01/2020;2.560
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2014;3.239
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2015;24
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2016;576
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2017;2.175
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2018;5.258
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2019;3.562
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;02/2020;70
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2014;4.614
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2015;40
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2016;2.315
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2017;15
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2018;3.382
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;03/2019;4.062
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2014;2.854
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2015;6.584
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2016;3.099
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2017;2.527
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2018;4.893
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;04/2019;4.356
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2014;2.835
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2015;14
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2016;29
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2017;821
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2018;4.546
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;05/2019;4.888
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2014;2.579
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2015;1.330
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2016;1.309
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2017;2.564
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2018;6.366
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;06/2019;32
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2014;2.631
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2015;3.571
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2016;7.722
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2017;3.543
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2018;5.528
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;07/2019;45
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2014;52
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2015;757
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2016;798
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2017;8.306
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2018;3.697
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;08/2019;100
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2014;31
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2015;11.307
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2016;9.151
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2017;3.687
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2018;3.995
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;09/2019;76
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2014;5
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2015;9.924
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2016;3.199
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2017;3.724
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2018;4.375
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;10/2019;86
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2014;1.541
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2015;3.710
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2016;2.139
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2017;6.126
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2018;6.360
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;11/2019;87
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2014;599
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2015;2.168
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2016;4.665
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2017;3.786
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2018;8.980
+32;ES;ESPIRITO SANTO     ;SUDESTE     ;12/2019;97
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2014;5.480
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2015;26
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2016;24.370
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2017;12.488
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2018;19.327
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2019;21.240
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;01/2020;4.085
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2014;8.047
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2015;33
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2016;2.960
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2017;8.679
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2018;20.418
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2019;16.762
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;02/2020;226
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2014;15.651
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2015;179
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2016;9.836
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2017;38
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2018;14.696
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;03/2019;19.119
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2014;10.066
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2015;41.007
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2016;15.597
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2017;11.731
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2018;21.565
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;04/2019;17.701
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2014;10.669
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2015;13
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2016;87
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2017;678
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2018;22.421
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;05/2019;24.059
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2014;7.243
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2015;10.662
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2016;1.924
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2017;12.124
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2018;29.772
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;06/2019;106
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2014;21.897
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2015;11.320
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2016;27.462
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2017;14.175
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2018;21.158
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;07/2019;143
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2014;101
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2015;5.842
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2016;340
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2017;42.872
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2018;16.646
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;08/2019;382
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2014;37
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2015;23.063
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2016;44.549
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2017;17.997
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2018;22.659
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;09/2019;236
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2014;12
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2015;37.844
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2016;14.442
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2017;23.190
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2018;21.793
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;10/2019;292
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2014;2.307
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2015;19.852
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2016;10.061
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2017;34.621
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2018;32.059
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;11/2019;261
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2014;832
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2015;7.420
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2016;20.362
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2017;18.958
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2018;50.473
+33;RJ;RIO DE JANEIRO     ;SUDESTE     ;12/2019;251
+35;SP;SAO PAULO          ;SUDESTE     ;01/2014;17.346
+35;SP;SAO PAULO          ;SUDESTE     ;01/2015;40
+35;SP;SAO PAULO          ;SUDESTE     ;01/2016;51.762
+35;SP;SAO PAULO          ;SUDESTE     ;01/2017;58.537
+35;SP;SAO PAULO          ;SUDESTE     ;01/2018;37.246
+35;SP;SAO PAULO          ;SUDESTE     ;01/2019;36.931
+35;SP;SAO PAULO          ;SUDESTE     ;01/2020;21.725
+35;SP;SAO PAULO          ;SUDESTE     ;02/2014;21.180
+35;SP;SAO PAULO          ;SUDESTE     ;02/2015;49
+35;SP;SAO PAULO          ;SUDESTE     ;02/2016;5.195
+35;SP;SAO PAULO          ;SUDESTE     ;02/2017;25.578
+35;SP;SAO PAULO          ;SUDESTE     ;02/2018;48.079
+35;SP;SAO PAULO          ;SUDESTE     ;02/2019;32.853
+35;SP;SAO PAULO          ;SUDESTE     ;02/2020;533
+35;SP;SAO PAULO          ;SUDESTE     ;03/2014;32.682
+35;SP;SAO PAULO          ;SUDESTE     ;03/2015;415
+35;SP;SAO PAULO          ;SUDESTE     ;03/2016;38.796
+35;SP;SAO PAULO          ;SUDESTE     ;03/2017;127
+35;SP;SAO PAULO          ;SUDESTE     ;03/2018;34.193
+35;SP;SAO PAULO          ;SUDESTE     ;03/2019;37.219
+35;SP;SAO PAULO          ;SUDESTE     ;04/2014;31.907
+35;SP;SAO PAULO          ;SUDESTE     ;04/2015;122.387
+35;SP;SAO PAULO          ;SUDESTE     ;04/2016;35.628
+35;SP;SAO PAULO          ;SUDESTE     ;04/2017;26.548
+35;SP;SAO PAULO          ;SUDESTE     ;04/2018;48.439
+35;SP;SAO PAULO          ;SUDESTE     ;04/2019;38.363
+35;SP;SAO PAULO          ;SUDESTE     ;05/2014;22.937
+35;SP;SAO PAULO          ;SUDESTE     ;05/2015;56
+35;SP;SAO PAULO          ;SUDESTE     ;05/2016;294
+35;SP;SAO PAULO          ;SUDESTE     ;05/2017;5.748
+35;SP;SAO PAULO          ;SUDESTE     ;05/2018;40.745
+35;SP;SAO PAULO          ;SUDESTE     ;05/2019;46.000
+35;SP;SAO PAULO          ;SUDESTE     ;06/2014;21.765
+35;SP;SAO PAULO          ;SUDESTE     ;06/2015;17.706
+35;SP;SAO PAULO          ;SUDESTE     ;06/2016;17.305
+35;SP;SAO PAULO          ;SUDESTE     ;06/2017;11.043
+35;SP;SAO PAULO          ;SUDESTE     ;06/2018;55.305
+35;SP;SAO PAULO          ;SUDESTE     ;06/2019;271
+35;SP;SAO PAULO          ;SUDESTE     ;07/2014;33.159
+35;SP;SAO PAULO          ;SUDESTE     ;07/2015;37.584
+35;SP;SAO PAULO          ;SUDESTE     ;07/2016;75.464
+35;SP;SAO PAULO          ;SUDESTE     ;07/2017;27.402
+35;SP;SAO PAULO          ;SUDESTE     ;07/2018;43.638
+35;SP;SAO PAULO          ;SUDESTE     ;07/2019;366
+35;SP;SAO PAULO          ;SUDESTE     ;08/2014;187
+35;SP;SAO PAULO          ;SUDESTE     ;08/2015;5.814
+35;SP;SAO PAULO          ;SUDESTE     ;08/2016;4.922
+35;SP;SAO PAULO          ;SUDESTE     ;08/2017;157.075
+35;SP;SAO PAULO          ;SUDESTE     ;08/2018;35.412
+35;SP;SAO PAULO          ;SUDESTE     ;08/2019;1.081
+35;SP;SAO PAULO          ;SUDESTE     ;09/2014;129
+35;SP;SAO PAULO          ;SUDESTE     ;09/2015;92.511
+35;SP;SAO PAULO          ;SUDESTE     ;09/2016;98.805
+35;SP;SAO PAULO          ;SUDESTE     ;09/2017;36.761
+35;SP;SAO PAULO          ;SUDESTE     ;09/2018;45.044
+35;SP;SAO PAULO          ;SUDESTE     ;09/2019;623
+35;SP;SAO PAULO          ;SUDESTE     ;10/2014;25
+35;SP;SAO PAULO          ;SUDESTE     ;10/2015;57.780
+35;SP;SAO PAULO          ;SUDESTE     ;10/2016;39.179
+35;SP;SAO PAULO          ;SUDESTE     ;10/2017;37.641
+35;SP;SAO PAULO          ;SUDESTE     ;10/2018;40.764
+35;SP;SAO PAULO          ;SUDESTE     ;10/2019;774
+35;SP;SAO PAULO          ;SUDESTE     ;11/2014;39.905
+35;SP;SAO PAULO          ;SUDESTE     ;11/2015;40.031
+35;SP;SAO PAULO          ;SUDESTE     ;11/2016;29.799
+35;SP;SAO PAULO          ;SUDESTE     ;11/2017;70.348
+35;SP;SAO PAULO          ;SUDESTE     ;11/2018;58.540
+35;SP;SAO PAULO          ;SUDESTE     ;11/2019;795
+35;SP;SAO PAULO          ;SUDESTE     ;12/2014;29.370
+35;SP;SAO PAULO          ;SUDESTE     ;12/2015;20.342
+35;SP;SAO PAULO          ;SUDESTE     ;12/2016;44.475
+35;SP;SAO PAULO          ;SUDESTE     ;12/2017;34.620
+35;SP;SAO PAULO          ;SUDESTE     ;12/2018;101.200
+35;SP;SAO PAULO          ;SUDESTE     ;12/2019;738
+41;PR;PARANA             ;SUL         ;01/2014;4.076
+41;PR;PARANA             ;SUL         ;01/2015;45
+41;PR;PARANA             ;SUL         ;01/2016;12.794
+41;PR;PARANA             ;SUL         ;01/2017;12.903
+41;PR;PARANA             ;SUL         ;01/2018;9.528
+41;PR;PARANA             ;SUL         ;01/2019;9.030
+41;PR;PARANA             ;SUL         ;01/2020;11.293
+41;PR;PARANA             ;SUL         ;02/2014;6.146
+41;PR;PARANA             ;SUL         ;02/2015;114
+41;PR;PARANA             ;SUL         ;02/2016;1.459
+41;PR;PARANA             ;SUL         ;02/2017;4.886
+41;PR;PARANA             ;SUL         ;02/2018;8.751
+41;PR;PARANA             ;SUL         ;02/2019;6.774
+41;PR;PARANA             ;SUL         ;02/2020;163
+41;PR;PARANA             ;SUL         ;03/2014;8.727
+41;PR;PARANA             ;SUL         ;03/2015;85
+41;PR;PARANA             ;SUL         ;03/2016;7.505
+41;PR;PARANA             ;SUL         ;03/2017;70
+41;PR;PARANA             ;SUL         ;03/2018;7.797
+41;PR;PARANA             ;SUL         ;03/2019;8.844
+41;PR;PARANA             ;SUL         ;04/2014;7.423
+41;PR;PARANA             ;SUL         ;04/2015;19.781
+41;PR;PARANA             ;SUL         ;04/2016;7.361
+41;PR;PARANA             ;SUL         ;04/2017;7.802
+41;PR;PARANA             ;SUL         ;04/2018;11.238
+41;PR;PARANA             ;SUL         ;04/2019;9.600
+41;PR;PARANA             ;SUL         ;05/2014;5.938
+41;PR;PARANA             ;SUL         ;05/2015;64
+41;PR;PARANA             ;SUL         ;05/2016;135
+41;PR;PARANA             ;SUL         ;05/2017;3.028
+41;PR;PARANA             ;SUL         ;05/2018;10.603
+41;PR;PARANA             ;SUL         ;05/2019;11.238
+41;PR;PARANA             ;SUL         ;06/2014;5.963
+41;PR;PARANA             ;SUL         ;06/2015;6.865
+41;PR;PARANA             ;SUL         ;06/2016;5.036
+41;PR;PARANA             ;SUL         ;06/2017;5.144
+41;PR;PARANA             ;SUL         ;06/2018;12.347
+41;PR;PARANA             ;SUL         ;06/2019;138
+41;PR;PARANA             ;SUL         ;07/2014;6.724
+41;PR;PARANA             ;SUL         ;07/2015;6.078
+41;PR;PARANA             ;SUL         ;07/2016;14.751
+41;PR;PARANA             ;SUL         ;07/2017;9.689
+41;PR;PARANA             ;SUL         ;07/2018;10.876
+41;PR;PARANA             ;SUL         ;07/2019;155
+41;PR;PARANA             ;SUL         ;08/2014;224
+41;PR;PARANA             ;SUL         ;08/2015;3.330
+41;PR;PARANA             ;SUL         ;08/2016;2.068
+41;PR;PARANA             ;SUL         ;08/2017;25.141
+41;PR;PARANA             ;SUL         ;08/2018;9.022
+41;PR;PARANA             ;SUL         ;08/2019;367
+41;PR;PARANA             ;SUL         ;09/2014;143
+41;PR;PARANA             ;SUL         ;09/2015;19.271
+41;PR;PARANA             ;SUL         ;09/2016;26.175
+41;PR;PARANA             ;SUL         ;09/2017;9.199
+41;PR;PARANA             ;SUL         ;09/2018;11.075
+41;PR;PARANA             ;SUL         ;09/2019;229
+41;PR;PARANA             ;SUL         ;10/2014;33
+41;PR;PARANA             ;SUL         ;10/2015;18.435
+41;PR;PARANA             ;SUL         ;10/2016;7.240
+41;PR;PARANA             ;SUL         ;10/2017;9.186
+41;PR;PARANA             ;SUL         ;10/2018;9.747
+41;PR;PARANA             ;SUL         ;10/2019;277
+41;PR;PARANA             ;SUL         ;11/2014;3.409
+41;PR;PARANA             ;SUL         ;11/2015;10.656
+41;PR;PARANA             ;SUL         ;11/2016;5.411
+41;PR;PARANA             ;SUL         ;11/2017;14.037
+41;PR;PARANA             ;SUL         ;11/2018;12.278
+41;PR;PARANA             ;SUL         ;11/2019;332
+41;PR;PARANA             ;SUL         ;12/2014;3.834
+41;PR;PARANA             ;SUL         ;12/2015;5.036
+41;PR;PARANA             ;SUL         ;12/2016;11.244
+41;PR;PARANA             ;SUL         ;12/2017;8.057
+41;PR;PARANA             ;SUL         ;12/2018;23.845
+41;PR;PARANA             ;SUL         ;12/2019;286
+42;SC;SANTA CATARINA     ;SUL         ;01/2014;1.466
+42;SC;SANTA CATARINA     ;SUL         ;01/2015;22
+42;SC;SANTA CATARINA     ;SUL         ;01/2016;4.046
+42;SC;SANTA CATARINA     ;SUL         ;01/2017;3.374
+42;SC;SANTA CATARINA     ;SUL         ;01/2018;3.272
+42;SC;SANTA CATARINA     ;SUL         ;01/2019;3.331
+42;SC;SANTA CATARINA     ;SUL         ;01/2020;6.129
+42;SC;SANTA CATARINA     ;SUL         ;02/2014;1.520
+42;SC;SANTA CATARINA     ;SUL         ;02/2015;36
+42;SC;SANTA CATARINA     ;SUL         ;02/2016;608
+42;SC;SANTA CATARINA     ;SUL         ;02/2017;1.485
+42;SC;SANTA CATARINA     ;SUL         ;02/2018;2.686
+42;SC;SANTA CATARINA     ;SUL         ;02/2019;2.114
+42;SC;SANTA CATARINA     ;SUL         ;02/2020;92
+42;SC;SANTA CATARINA     ;SUL         ;03/2014;2.013
+42;SC;SANTA CATARINA     ;SUL         ;03/2015;36
+42;SC;SANTA CATARINA     ;SUL         ;03/2016;2.081
+42;SC;SANTA CATARINA     ;SUL         ;03/2017;20
+42;SC;SANTA CATARINA     ;SUL         ;03/2018;2.532
+42;SC;SANTA CATARINA     ;SUL         ;03/2019;3.051
+42;SC;SANTA CATARINA     ;SUL         ;04/2014;2.390
+42;SC;SANTA CATARINA     ;SUL         ;04/2015;10.067
+42;SC;SANTA CATARINA     ;SUL         ;04/2016;2.626
+42;SC;SANTA CATARINA     ;SUL         ;04/2017;3.293
+42;SC;SANTA CATARINA     ;SUL         ;04/2018;3.998
+42;SC;SANTA CATARINA     ;SUL         ;04/2019;3.773
+42;SC;SANTA CATARINA     ;SUL         ;05/2014;2.125
+42;SC;SANTA CATARINA     ;SUL         ;05/2015;29
+42;SC;SANTA CATARINA     ;SUL         ;05/2016;91
+42;SC;SANTA CATARINA     ;SUL         ;05/2017;1.410
+42;SC;SANTA CATARINA     ;SUL         ;05/2018;3.989
+42;SC;SANTA CATARINA     ;SUL         ;05/2019;4.415
+42;SC;SANTA CATARINA     ;SUL         ;06/2014;2.098
+42;SC;SANTA CATARINA     ;SUL         ;06/2015;2.969
+42;SC;SANTA CATARINA     ;SUL         ;06/2016;3.302
+42;SC;SANTA CATARINA     ;SUL         ;06/2017;2.510
+42;SC;SANTA CATARINA     ;SUL         ;06/2018;4.540
+42;SC;SANTA CATARINA     ;SUL         ;06/2019;77
+42;SC;SANTA CATARINA     ;SUL         ;07/2014;2.716
+42;SC;SANTA CATARINA     ;SUL         ;07/2015;1.896
+42;SC;SANTA CATARINA     ;SUL         ;07/2016;5.534
+42;SC;SANTA CATARINA     ;SUL         ;07/2017;3.762
+42;SC;SANTA CATARINA     ;SUL         ;07/2018;4.080
+42;SC;SANTA CATARINA     ;SUL         ;07/2019;84
+42;SC;SANTA CATARINA     ;SUL         ;08/2014;207
+42;SC;SANTA CATARINA     ;SUL         ;08/2015;1.189
+42;SC;SANTA CATARINA     ;SUL         ;08/2016;1.656
+42;SC;SANTA CATARINA     ;SUL         ;08/2017;7.245
+42;SC;SANTA CATARINA     ;SUL         ;08/2018;3.556
+42;SC;SANTA CATARINA     ;SUL         ;08/2019;165
+42;SC;SANTA CATARINA     ;SUL         ;09/2014;70
+42;SC;SANTA CATARINA     ;SUL         ;09/2015;5.786
+42;SC;SANTA CATARINA     ;SUL         ;09/2016;7.636
+42;SC;SANTA CATARINA     ;SUL         ;09/2017;3.521
+42;SC;SANTA CATARINA     ;SUL         ;09/2018;4.123
+42;SC;SANTA CATARINA     ;SUL         ;09/2019;108
+42;SC;SANTA CATARINA     ;SUL         ;10/2014;12
+42;SC;SANTA CATARINA     ;SUL         ;10/2015;5.365
+42;SC;SANTA CATARINA     ;SUL         ;10/2016;3.712
+42;SC;SANTA CATARINA     ;SUL         ;10/2017;3.227
+42;SC;SANTA CATARINA     ;SUL         ;10/2018;3.596
+42;SC;SANTA CATARINA     ;SUL         ;10/2019;158
+42;SC;SANTA CATARINA     ;SUL         ;11/2014;3.641
+42;SC;SANTA CATARINA     ;SUL         ;11/2015;3.778
+42;SC;SANTA CATARINA     ;SUL         ;11/2016;2.498
+42;SC;SANTA CATARINA     ;SUL         ;11/2017;4.919
+42;SC;SANTA CATARINA     ;SUL         ;11/2018;4.821
+42;SC;SANTA CATARINA     ;SUL         ;11/2019;156
+42;SC;SANTA CATARINA     ;SUL         ;12/2014;883
+42;SC;SANTA CATARINA     ;SUL         ;12/2015;1.953
+42;SC;SANTA CATARINA     ;SUL         ;12/2016;3.539
+42;SC;SANTA CATARINA     ;SUL         ;12/2017;2.795
+42;SC;SANTA CATARINA     ;SUL         ;12/2018;9.104
+42;SC;SANTA CATARINA     ;SUL         ;12/2019;156
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2014;3.948
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2015;12
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2016;14.512
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2017;6.671
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2018;9.356
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2019;8.964
+43;RS;RIO GRANDE DO SUL  ;SUL         ;01/2020;11.886
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2014;8.248
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2015;125
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2016;1.207
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2017;4.712
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2018;10.498
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2019;6.836
+43;RS;RIO GRANDE DO SUL  ;SUL         ;02/2020;212
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2014;11.751
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2015;75
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2016;7.897
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2017;36
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2018;7.449
+43;RS;RIO GRANDE DO SUL  ;SUL         ;03/2019;7.371
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2014;6.533
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2015;12.743
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2016;5.389
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2017;5.354
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2018;9.613
+43;RS;RIO GRANDE DO SUL  ;SUL         ;04/2019;7.966
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2014;5.912
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2015;15
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2016;102
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2017;1.770
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2018;9.586
+43;RS;RIO GRANDE DO SUL  ;SUL         ;05/2019;9.696
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2014;5.219
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2015;4.294
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2016;2.994
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2017;4.629
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2018;11.776
+43;RS;RIO GRANDE DO SUL  ;SUL         ;06/2019;78
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2014;13.392
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2015;4.219
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2016;11.359
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2017;7.934
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2018;9.090
+43;RS;RIO GRANDE DO SUL  ;SUL         ;07/2019;123
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2014;46
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2015;1.818
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2016;1.978
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2017;21.063
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2018;7.587
+43;RS;RIO GRANDE DO SUL  ;SUL         ;08/2019;412
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2014;67
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2015;15.187
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2016;21.337
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2017;8.384
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2018;9.330
+43;RS;RIO GRANDE DO SUL  ;SUL         ;09/2019;246
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2014;11
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2015;22.997
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2016;6.824
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2017;7.708
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2018;7.879
+43;RS;RIO GRANDE DO SUL  ;SUL         ;10/2019;325
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2014;3.873
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2015;11.127
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2016;4.097
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2017;12.718
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2018;10.944
+43;RS;RIO GRANDE DO SUL  ;SUL         ;11/2019;305
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2014;701
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2015;3.552
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2016;10.210
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2017;8.632
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2018;22.496
+43;RS;RIO GRANDE DO SUL  ;SUL         ;12/2019;261
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2014;833
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2015;22
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2016;5.641
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2017;5.252
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2018;2.613
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2019;3.052
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;01/2020;1.839
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2014;4.043
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2015;359
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2016;74
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2017;1.568
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2018;2.892
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2019;2.205
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;02/2020;177
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2014;4.517
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2015;64
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2016;3.176
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2017;29
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2018;2.479
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;03/2019;2.828
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2014;2.456
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2015;1.327
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2016;1.916
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2017;1.767
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2018;3.733
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;04/2019;3.170
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2014;2.277
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2015;47
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2016;108
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2017;292
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2018;3.522
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;05/2019;3.817
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2014;2.727
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2015;570
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2016;290
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2017;487
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2018;4.561
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;06/2019;84
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2014;3.098
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2015;266
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2016;3.982
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2017;3.351
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2018;4.014
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;07/2019;124
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2014;123
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2015;367
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2016;261
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2017;8.243
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2018;3.184
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;08/2019;399
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2014;124
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2015;6.839
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2016;7.829
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2017;2.650
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2018;3.875
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;09/2019;207
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2014;16
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2015;10.025
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2016;1.889
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2017;2.780
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2018;3.030
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;10/2019;329
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2014;412
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2015;3.337
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2016;1.100
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2017;3.958
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2018;3.937
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;11/2019;283
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2014;140
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2015;1.341
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2016;3.643
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2017;2.153
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2018;8.044
+50;MS;MATO GROSSO DO SUL ;CENTRO-OESTE;12/2019;316
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2014;1.043
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2015;24
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2016;6.752
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2017;5.392
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2018;3.152
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2019;3.039
+51;MT;MATO GROSSO        ;CENTRO-OESTE;01/2020;3.753
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2014;3.427
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2015;153
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2016;187
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2017;1.860
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2018;3.215
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2019;2.718
+51;MT;MATO GROSSO        ;CENTRO-OESTE;02/2020;108
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2014;5.001
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2015;47
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2016;3.687
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2017;32
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2018;2.898
+51;MT;MATO GROSSO        ;CENTRO-OESTE;03/2019;3.297
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2014;2.899
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2015;3.593
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2016;2.267
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2017;2.364
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2018;4.166
+51;MT;MATO GROSSO        ;CENTRO-OESTE;04/2019;3.598
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2014;2.411
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2015;27
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2016;112
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2017;563
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2018;3.780
+51;MT;MATO GROSSO        ;CENTRO-OESTE;05/2019;4.084
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2014;2.520
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2015;1.062
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2016;815
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2017;1.028
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2018;4.997
+51;MT;MATO GROSSO        ;CENTRO-OESTE;06/2019;85
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2014;4.812
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2015;1.026
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2016;4.903
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2017;3.941
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2018;4.117
+51;MT;MATO GROSSO        ;CENTRO-OESTE;07/2019;92
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2014;146
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2015;497
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2016;498
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2017;11.671
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2018;3.319
+51;MT;MATO GROSSO        ;CENTRO-OESTE;08/2019;281
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2014;153
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2015;5.131
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2016;8.475
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2017;3.620
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2018;4.944
+51;MT;MATO GROSSO        ;CENTRO-OESTE;09/2019;137
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2014;12
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2015;11.110
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2016;2.129
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2017;3.721
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2018;3.379
+51;MT;MATO GROSSO        ;CENTRO-OESTE;10/2019;157
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2014;1.115
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2015;3.944
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2016;1.523
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2017;5.021
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2018;4.461
+51;MT;MATO GROSSO        ;CENTRO-OESTE;11/2019;146
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2014;246
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2015;1.390
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2016;4.349
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2017;2.595
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2018;10.027
+51;MT;MATO GROSSO        ;CENTRO-OESTE;12/2019;106
+52;GO;GOIAS              ;CENTRO-OESTE;01/2014;1.950
+52;GO;GOIAS              ;CENTRO-OESTE;01/2015;63
+52;GO;GOIAS              ;CENTRO-OESTE;01/2016;14.089
+52;GO;GOIAS              ;CENTRO-OESTE;01/2017;20.824
+52;GO;GOIAS              ;CENTRO-OESTE;01/2018;5.432
+52;GO;GOIAS              ;CENTRO-OESTE;01/2019;5.576
+52;GO;GOIAS              ;CENTRO-OESTE;01/2020;9.404
+52;GO;GOIAS              ;CENTRO-OESTE;02/2014;5.046
+52;GO;GOIAS              ;CENTRO-OESTE;02/2015;133
+52;GO;GOIAS              ;CENTRO-OESTE;02/2016;652
+52;GO;GOIAS              ;CENTRO-OESTE;02/2017;3.261
+52;GO;GOIAS              ;CENTRO-OESTE;02/2018;6.633
+52;GO;GOIAS              ;CENTRO-OESTE;02/2019;4.448
+52;GO;GOIAS              ;CENTRO-OESTE;02/2020;127
+52;GO;GOIAS              ;CENTRO-OESTE;03/2014;7.925
+52;GO;GOIAS              ;CENTRO-OESTE;03/2015;117
+52;GO;GOIAS              ;CENTRO-OESTE;03/2016;8.308
+52;GO;GOIAS              ;CENTRO-OESTE;03/2017;71
+52;GO;GOIAS              ;CENTRO-OESTE;03/2018;6.223
+52;GO;GOIAS              ;CENTRO-OESTE;03/2019;6.355
+52;GO;GOIAS              ;CENTRO-OESTE;04/2014;5.400
+52;GO;GOIAS              ;CENTRO-OESTE;04/2015;10.370
+52;GO;GOIAS              ;CENTRO-OESTE;04/2016;4.363
+52;GO;GOIAS              ;CENTRO-OESTE;04/2017;3.855
+52;GO;GOIAS              ;CENTRO-OESTE;04/2018;7.740
+52;GO;GOIAS              ;CENTRO-OESTE;04/2019;6.164
+52;GO;GOIAS              ;CENTRO-OESTE;05/2014;4.293
+52;GO;GOIAS              ;CENTRO-OESTE;05/2015;72
+52;GO;GOIAS              ;CENTRO-OESTE;05/2016;167
+52;GO;GOIAS              ;CENTRO-OESTE;05/2017;1.622
+52;GO;GOIAS              ;CENTRO-OESTE;05/2018;6.619
+52;GO;GOIAS              ;CENTRO-OESTE;05/2019;6.809
+52;GO;GOIAS              ;CENTRO-OESTE;06/2014;4.607
+52;GO;GOIAS              ;CENTRO-OESTE;06/2015;3.268
+52;GO;GOIAS              ;CENTRO-OESTE;06/2016;2.661
+52;GO;GOIAS              ;CENTRO-OESTE;06/2017;2.147
+52;GO;GOIAS              ;CENTRO-OESTE;06/2018;8.355
+52;GO;GOIAS              ;CENTRO-OESTE;06/2019;128
+52;GO;GOIAS              ;CENTRO-OESTE;07/2014;10.804
+52;GO;GOIAS              ;CENTRO-OESTE;07/2015;1.841
+52;GO;GOIAS              ;CENTRO-OESTE;07/2016;6.070
+52;GO;GOIAS              ;CENTRO-OESTE;07/2017;4.476
+52;GO;GOIAS              ;CENTRO-OESTE;07/2018;6.916
+52;GO;GOIAS              ;CENTRO-OESTE;07/2019;138
+52;GO;GOIAS              ;CENTRO-OESTE;08/2014;439
+52;GO;GOIAS              ;CENTRO-OESTE;08/2015;1.047
+52;GO;GOIAS              ;CENTRO-OESTE;08/2016;1.004
+52;GO;GOIAS              ;CENTRO-OESTE;08/2017;20.793
+52;GO;GOIAS              ;CENTRO-OESTE;08/2018;5.741
+52;GO;GOIAS              ;CENTRO-OESTE;08/2019;220
+52;GO;GOIAS              ;CENTRO-OESTE;09/2014;139
+52;GO;GOIAS              ;CENTRO-OESTE;09/2015;7.254
+52;GO;GOIAS              ;CENTRO-OESTE;09/2016;13.231
+52;GO;GOIAS              ;CENTRO-OESTE;09/2017;5.536
+52;GO;GOIAS              ;CENTRO-OESTE;09/2018;6.084
+52;GO;GOIAS              ;CENTRO-OESTE;09/2019;140
+52;GO;GOIAS              ;CENTRO-OESTE;10/2014;43
+52;GO;GOIAS              ;CENTRO-OESTE;10/2015;14.416
+52;GO;GOIAS              ;CENTRO-OESTE;10/2016;3.792
+52;GO;GOIAS              ;CENTRO-OESTE;10/2017;5.872
+52;GO;GOIAS              ;CENTRO-OESTE;10/2018;5.938
+52;GO;GOIAS              ;CENTRO-OESTE;10/2019;183
+52;GO;GOIAS              ;CENTRO-OESTE;11/2014;2.762
+52;GO;GOIAS              ;CENTRO-OESTE;11/2015;9.099
+52;GO;GOIAS              ;CENTRO-OESTE;11/2016;2.267
+52;GO;GOIAS              ;CENTRO-OESTE;11/2017;9.057
+52;GO;GOIAS              ;CENTRO-OESTE;11/2018;7.364
+52;GO;GOIAS              ;CENTRO-OESTE;11/2019;232
+52;GO;GOIAS              ;CENTRO-OESTE;12/2014;521
+52;GO;GOIAS              ;CENTRO-OESTE;12/2015;4.288
+52;GO;GOIAS              ;CENTRO-OESTE;12/2016;5.866
+52;GO;GOIAS              ;CENTRO-OESTE;12/2017;4.386
+52;GO;GOIAS              ;CENTRO-OESTE;12/2018;16.614
+52;GO;GOIAS              ;CENTRO-OESTE;12/2019;192
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2014;1.132
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2015;2
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2016;1.222
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2017;477
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2018;1.791
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2019;1.206
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;01/2020;41
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2014;649
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2015;6
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2016;3
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2017;1.070
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2018;1.775
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2019;918
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;02/2020;25
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2014;116
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2015;28
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2016;1.638
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2017;5
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2018;1.166
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;03/2019;1.188
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2014;1.444
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2015;80
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2016;1.819
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2017;1.909
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2018;1.165
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;04/2019;1.254
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2014;686
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2015;2
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2016;15
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2017;8
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2018;919
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;05/2019;1.743
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2014;609
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2015;37
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2016;17
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2017;53
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2018;1.205
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;06/2019;12
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2014;1.306
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2015;4.283
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2016;5.332
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2017;4.210
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2018;1.562
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;07/2019;21
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2014;8
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2015;11
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2016;33
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2017;2.281
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2018;1.657
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;08/2019;73
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2014;7
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2015;14.693
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2016;5.209
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2017;1.461
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2018;1.789
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;09/2019;53
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;10/2015;1.063
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;10/2016;3.046
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;10/2017;1.685
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;10/2018;1.471
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;10/2019;60
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2014;418
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2015;1.428
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2016;2.139
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2017;2.957
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2018;1.763
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;11/2019;56
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2014;18
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2015;461
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2016;1.053
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2017;1.576
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2018;4.622
+53;DF;DISTRITO FEDERAL   ;CENTRO-OESTE;12/2019;43

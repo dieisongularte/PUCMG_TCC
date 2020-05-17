@@ -1,0 +1,28 @@
+id_estado;nome_estado;sigla_estado;nome_regiao
+11;RONDONIA           ;RO;NORTE       
+12;ACRE               ;AC;NORTE       
+13;AMAZONAS           ;AM;NORTE       
+14;RORAIMA            ;RR;NORTE       
+15;PARA               ;PA;NORTE       
+16;AMAPA              ;AP;NORTE       
+17;TOCANTINS          ;TO;NORTE       
+21;MARANHAO           ;MA;NORDESTE    
+22;PIAUI              ;PI;NORDESTE    
+23;CEARA              ;CE;NORDESTE    
+24;RIO GRANDE DO NORTE;RN;NORDESTE    
+25;PARAIBA            ;PB;NORDESTE    
+26;PERNAMBUCO         ;PE;NORDESTE    
+27;ALAGOAS            ;AL;NORDESTE    
+28;SERGIPE            ;SE;NORDESTE    
+29;BAHIA              ;BA;NORDESTE    
+31;MINAS GERAIS       ;MG;SUDESTE     
+32;ESPIRITO SANTO     ;ES;SUDESTE     
+33;RIO DE JANEIRO     ;RJ;SUDESTE     
+35;SAO PAULO          ;SP;SUDESTE     
+41;PARANA             ;PR;SUL         
+42;SANTA CATARINA     ;SC;SUL         
+43;RIO GRANDE DO SUL  ;RS;SUL         
+50;MATO GROSSO DO SUL ;MS;CENTRO-OESTE
+51;MATO GROSSO        ;MT;CENTRO-OESTE
+52;GOIAS              ;GO;CENTRO-OESTE
+53;DISTRITO FEDERAL   ;DF;CENTRO-OESTE
